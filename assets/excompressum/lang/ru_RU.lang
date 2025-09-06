@@ -1,0 +1,86 @@
+﻿item.excompressum:compressed_hammer_wood.name=Деревянный сжатый молот
+item.excompressum:compressed_hammer_stone.name=Каменный сжатый молот
+item.excompressum:compressed_hammer_iron.name=Железный сжатый молот
+item.excompressum:compressed_hammer_gold.name=Золотой сжатый молот
+item.excompressum:compressed_hammer_diamond.name=Алмазный сжатый молот
+item.excompressum:double_compressed_diamond_hammer.name=Алмазный дважды сжатый молот
+item.excompressum:compressed_crook.name=Сжатый крюк
+item.excompressum:chicken_stick.name=Курица на палке
+item.excompressum:heavy_silk_mesh.name=Тяжёлая шёлковая сетка
+item.excompressum:bait_0.name=Волчья наживка
+item.excompressum:bait_1.name=Кошачья наживка
+item.excompressum:bait_2.name=Коровья наживка
+item.excompressum:bait_3.name=Свиная наживка
+item.excompressum:bait_4.name=Куриная наживка
+item.excompressum:bait_5.name=Овчиная наживка
+item.excompressum:bait_6.name=Осьминожья наживка
+item.excompressum:wood_chippings.name=Деревянные щепки
+item.excompressum:uncompressed_coal.name=Кусочек угля
+item.excompressum:bat_zapper.name=Уничтожитель летучих мышей
+item.excompressum:ore_smasher.name=Разрушитель руды
+
+tooltip.excompressum:double_compressed_diamond_hammer=Может быть использован как модификатор в Tinker's Construct.
+tooltip.excompressum:auto_sieve=Игрок в коробке.
+tooltip.excompressum:auto_heavy_sieve=Игрок в тяжёлой коробке.
+tooltip.excompressum:mana_sieve=Игрок в магической коробке.
+
+waila.excompressum:baitTooClose=Вы слишком близко.
+waila.excompressum:baitTooClose2=Вы испугали животных.
+waila.excompressum:speedBoost=Бонус скорости: %s
+waila.excompressum:luckBonus=Бонус удачиs: %s
+waila.excompressum:sieveSkin=Скин: %s
+waila.excompressum:sieveLeft=%s осталось
+waila.excompressum:solidVolume=Твёрдое наполнение: %s
+waila.excompressum:fluidVolume=Жидкое наполнение: %s
+
+info.excompressum:baitCanSpawn=Наживка будет работать в этой среде. Отойдите от наживки подальше!
+info.excompressum:baitNearbyBait=Слишком много наживок рядом. Очень подозрительно.
+info.excompressum:baitWrongEnv=Поставьте больше блоков из биома проживания животного.
+info.excompressum:baitNearbyAnimal=Животные стесняются. Здесь слишком много животных.
+info.excompressum:baitNoWater=Рядом нет воды.
+info.excompressum:baitPlaceInWater=Должна быть установлена в воде.
+
+tile.excompressum:compressed_dust.name=Сжатая пыль
+tile.excompressum:compressed_cobblestone.name=Сжатый булыжник
+tile.excompressum:compressed_sand.name=Сжатый песок
+tile.excompressum:compressed_dirt.name=Сжатая земля
+tile.excompressum:compressed_gravel.name=Сжатый гравий
+tile.excompressum:compressed_flint.name=Сжатый кремень
+tile.excompressum:compressed_stone.name=Сжатый камень
+tile.excompressum:compressed_netherrack.name=Дроблёный сжатый незерак
+tile.excompressum:heavy_sieve_0.name=Тяжёлое дубовое сито
+tile.excompressum:heavy_sieve_1.name=Тяжёлое еловое сито
+tile.excompressum:heavy_sieve_2.name=Тяжёлое берёзовое сито
+tile.excompressum:heavy_sieve_3.name=Тяжёлое тропическое сито
+tile.excompressum:heavy_sieve_4.name=Тяжёлое акациевое сито
+tile.excompressum:heavy_sieve_5.name=Тяжёлое тёмно-дубовое сито
+tile.excompressum:wooden_crucible_0.nameДубовый тигель
+tile.excompressum:wooden_crucible_1.name=Еловый тигель
+tile.excompressum:wooden_crucible_2.name=Берёзовый тигель
+tile.excompressum:wooden_crucible_3.name=Тропический тигель
+tile.excompressum:wooden_crucible_4.name=Акациевый тигель
+tile.excompressum:wooden_crucible_5.name=Тёмно-дубовый тигель
+tile.excompressum:auto_compressor.name=Автоматический сжиматель
+tile.excompressum:auto_hammer.name=Автоматический молот
+tile.excompressum:auto_compressed_hammer.name=Автоматически сжатый молот
+tile.excompressum:auto_sieve.name=Автоматическое сито
+tile.excompressum:auto_sieve_mana.name=Мана сито
+tile.excompressum:auto_heavy_sieve.name=Автоматическое тяжёлое сито
+
+entity.excompressum.AngryChicken.name=Злая курица
+
+itemGroup.excompressum=Ex Compressum
+
+botania.entry.excompressum.orechidEvolved=Эволюционировавший Орешид
+botania.tagline.excompressum.orechidEvolved=Создаёт руды из камня
+botania.page.excompressum.orechidEvolved0=Вы, наверное, уже заметили, что в этом мире нельзя добывать руду. &1Эволюционировавший Орешид&0 будет использовать &4Ману&0 для генерации &4Руд&0 в близлежащих &Каменных&0 блоках быстрее и дешевле, чем &Орешид&0. Руды, которые он генерирует, являются случайными, но, похоже, они ориентированы на более распространенные руды, а не на более редкие.
+botania.page.excompressum.orechidEvolved1=&oК сожалению, это не драконья какашка&r.
+tile.botania:flower.excompressum.orechidEvolved.name=Эволюционировавший Орешид
+tile.botania:flower.excompressum.orechidEvolved.reference=Орешид: Эволюция: Скайблок: Фильм
+
+botania.entry.excompressum.brokenComprilla=Сломанная Комприлла
+botania.tagline.excompressum.brokenComprilla=Сжимает предметы в блоки
+botania.page.excompressum.brokenComprilla0=Вы уже просеяли приличное количество &4Битой руды&0, не так ли? &1Сломанная Комприлла&0 будет использовать &4Ману&0 для прессования предметов в блочные формы, чтобы их можно было компактно хранить или переплавлять в слитки. Предметы, которые нужно сжать, должны быть помещены на рунический алтарь в диапазоне &10. Это сработает для любых предметов, которые можно сложить в куб размером 2х2 или 3х3.
+botania.page.excompressum.brokenComprilla1=Сохраняя традицию.
+tile.botania:flower.excompressum.brokenComprilla.name=Сломанная Комприлла
+tile.botania:flower.excompressum.brokenComprilla.reference=На самом деле она не сломана

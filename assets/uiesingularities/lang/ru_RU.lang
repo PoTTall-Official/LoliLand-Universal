@@ -1,0 +1,125 @@
+﻿//Ванила
+item.universalSingularities.vanilla.coal.name=Угольная сингулярность
+item.universalSingularities.vanilla.diamond.name=Алмазная сингулярность
+item.universalSingularities.vanilla.emerald.name=Изумрудная сингулярность
+//Ванила
+
+//Главное
+item.universalSingularities.general.aluminum.name=Алюминиевая сингулярность
+item.universalSingularities.general.brass.name=Латунная сингулярность
+item.universalSingularities.general.bronze.name=Бронзовая сингулярность
+item.universalSingularities.general.charcoal.name=Древесноугольная сингулярность
+item.universalSingularities.general.electrum.name=Электрумовая сингулярность
+item.universalSingularities.general.invar.name=Инваровая сингулярность
+item.universalSingularities.general.magnesium.name=Магнезиумовая сингулярность
+item.universalSingularities.general.osmium.name=Осмиевая сингулярность
+item.universalSingularities.general.peridot.name=Перидотовая сингулярность
+item.universalSingularities.general.ruby.name=Рубиновая сингулярность
+item.universalSingularities.general.sapphire.name=Сапфировая сингулярность
+item.universalSingularities.general.steel.name=Стальная сингулярность
+item.universalSingularities.general.titanium.name=Титановая сингулярность
+item.universalSingularities.general.tungsten.name=Вольфрамовая сингулярность
+item.universalSingularities.general.uranium.name=Урановая сингулярность
+item.universalSingularities.general.zinc.name=Цинковая сингулярность
+//Главное
+
+//Big Reactors
+item.universalSingularities.bigReactors.blutonium.name=Блутониевая сингулярность
+item.universalSingularities.bigReactors.cyanite.name=Цианитовая сингулярность
+item.universalSingularities.bigReactors.graphite.name=Графитовая сингулярность
+item.universalSingularities.bigReactors.ludicrite.name=Лудикритовая сингулярность
+item.universalSingularities.bigReactors.yellorium.name=Йуллориумовая сингулярность
+//Big Reactors
+
+//Draconic Evolution
+item.universalSingularities.draconicEvolution.draconium.name=Дракониевая сингулярность
+item.universalSingularities.draconicEvolution.draconiumAwakened.name=Пробуждённая сингулярность
+//Draconic Evolution
+
+//Ender IO
+item.universalSingularities.enderIO.conductiveIron.name=Проводящая сингулярность
+item.universalSingularities.enderIO.electricalSteel.name=Наэлектризованная сингулярность
+item.universalSingularities.enderIO.energeticAlloy.name=Энергетическая сингулярность
+item.universalSingularities.enderIO.darkSteel.name=Тёмная сингулярность
+item.universalSingularities.enderIO.pulsatingIron.name=Пульсирующая сингулярность
+item.universalSingularities.enderIO.redstoneAlloy.name=Краснокаменная сингулярность
+item.universalSingularities.enderIO.soularium.name=Соулариевая сингулярность
+item.universalSingularities.enderIO.vibrantAlloy.name=Вибрирующая сингулярность
+//Ender IO
+
+//ExtraPlanets
+item.universalSingularities.extraPlanets.blueGem.name=Синяя сингулярность
+item.universalSingularities.extraPlanets.carbon.name=Карбоновая сингулярность
+item.universalSingularities.extraPlanets.crystal.name=Кристальная сингулярность
+item.universalSingularities.extraPlanets.palladium.name=Палладиевая сингулярность
+item.universalSingularities.extraPlanets.redGem.name=Красная сингулярность
+item.universalSingularities.extraPlanets.whiteGem.name=Белая сингулярность
+//ExtraPlanets
+
+//ExtraTiC
+item.universalSingularities.extraTiC.fairy.name=Чистая сингулярность
+item.universalSingularities.extraTiC.pokefennium.name=Покфениумная сингулярность
+//ExtraTiC
+
+//Extra Utilities
+item.universalSingularities.extraUtilities.unstable.name=Нестабильная сингулярность
+//Extra Utilities
+
+//Mekanism
+item.universalSingularities.mekanism.refinedGlowstone.name=Очищенная светокаменная сингулярность
+item.universalSingularities.mekanism.refinedObsidian.name=Очищенная обсидиановая сингулярность
+//Mekanism
+
+//Metallurgy 4
+//Утилиты
+item.universalSingularities.metallurgy.bitumen.name=Битумная сингулярность
+item.universalSingularities.metallurgy.phosphorus.name=Форсорная сингулярность
+item.universalSingularities.metallurgy.potash.name=Поташиевая сингулярность
+item.universalSingularities.metallurgy.saltpeter.name=Селитровая сингулярность
+item.universalSingularities.metallurgy.sulfur.name=Серная сингулярность
+//Alloys - Основное
+item.universalSingularities.metallurgy.angmallen.name=Ангмалленовая сингулярность
+item.universalSingularities.metallurgy.damascusSteel.name=Дамасковая сингулярность
+item.universalSingularities.metallurgy.hepatizon.name=Гепатизоная сингулярность
+//Alloys - Эндер
+item.universalSingularities.metallurgy.desichalkos.name=Десихалковая сингулярность
+//Alloys - Фантазийные
+item.universalSingularities.metallurgy.blackSteel.name=Тёмностальная сингулярность
+item.universalSingularities.metallurgy.celenegil.name=Селенегиловая сингулярность
+item.universalSingularities.metallurgy.haderoth.name=Хадеротовая сингулярность
+item.universalSingularities.metallurgy.quicksilver.name=Ртутная сингулярность
+item.universalSingularities.metallurgy.tartarite.name=Тартаритовая сингулярность
+//Alloys - Незер
+item.universalSingularities.metallurgy.amordrine.name=Амордриновая сингулярность
+item.universalSingularities.metallurgy.inolashite.name=Инолашитовая сингулярность
+item.universalSingularities.metallurgy.shadowSteel.name=Теневая сингулярность
+//Metallurgy 4
+
+//PneumaticCraft
+item.universalSingularities.pneumaticCraft.compressedIron.name=Сжатая железная сингулярность
+//PneumaticCraft
+
+//ProjectRed
+item.universalSingularities.projectRed.electrotine.name=Электротиновая сингулярность
+//ProjectRed
+
+//Redstone Arsenal
+item.universalSingularities.redstoneArsenal.electrumFlux.name=Флаксовая электрумовая сингулярность
+item.universalSingularities.redstoneArsenal.crystalFlux.name=Флаксовая кристальная сингулярность
+//Redstone Arsenal
+
+//Tinkers' Construct
+item.universalSingularities.tinkersConstruct.aluminumBrass.name=Алюминиевая латунная сингулярность
+item.universalSingularities.tinkersConstruct.alumite.name=Алюмитовая сингулярность
+item.universalSingularities.tinkersConstruct.ardite.name=Ардитовая сингулярность
+item.universalSingularities.tinkersConstruct.cobalt.name=Кобальтовая сингулярность
+item.universalSingularities.tinkersConstruct.ender.name=Эндериумовая сингулярность
+item.universalSingularities.tinkersConstruct.glue.name=Клейкая сингулярность
+item.universalSingularities.tinkersConstruct.manyullyn.name=Мануллиновая сингулярность
+//item.universalSingularities.tinkersConstruct.pigIron.name=Свиная сингулярность
+//Tinkers' Construct
+
+/*Удалено
+ * item.universalSingularities.general.salt.name=Солевая сингулярность
+ * item.universalSingularities.extraTiC.red_aurum.name=Красноауровая сингулярность
+ */

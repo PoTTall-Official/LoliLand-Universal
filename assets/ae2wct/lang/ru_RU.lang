@@ -1,0 +1,77 @@
+//**************************//
+//WIRELESS CRAFTING TEMRINAL//
+//**************************//
+
+//Items
+item.wirelessCraftingTerminal.name=Беспроводной терминал изготовления
+item.infinityBoosterCard.name=Карта бесконечности
+item.magnetCard.name=Магнитная карта
+itemGroup.ae2wct=Беспр. терм. изготовления
+
+//Tooltips
+gui.tooltips.ae2wct.PressShift=Зажмите "Shift" для подробной информации
+gui.tooltips.ae2wct.OnlyWorks=Работает только в одном измерении!
+gui.tooltips.ae2wct.TitleDesc=Описание
+gui.tooltips.ae2wct.InfinityBoosterDesc=Заставляет работать привязанный терминал изготовления на любом расстоянии в пределах измерения.
+gui.tooltips.ae2wct.MagnetDesc=Магнит, способный автоматически класть предметы в сеть.
+gui.tooltips.ae2wct.MagnetDesc2=Кликните ПКМ, чтобы установить фильтр.
+gui.tooltips.ae2wct.LinkStatus=Статус
+gui.tooltips.ae2wct.Installed=Установлено
+gui.tooltips.ae2wct.NotInstalled=Не установлено
+gui.tooltips.ae2wct.Active=Включено
+gui.tooltips.ae2wct.Inactive=Выключено
+gui.tooltips.ae2wct.Status=Статус
+gui.tooltips.ae2wct.EmptyTrash=Очистить корзину
+gui.tooltips.ae2wct.EmptyTrashDesc=Удаляет содержимое корзины.
+gui.tooltips.ae2wct.MagnetFilterTitle=Фильтр магнита
+gui.tooltips.ae2wct.FilterMode=Режим
+gui.tooltips.ae2wct.Whitelisting=Белый список
+gui.tooltips.ae2wct.Blacklisting=Чёрный список
+gui.tooltips.ae2wct.MagnetActiveDesc1=Все дополнительные предметы добавлены в инвентарь.
+gui.tooltips.ae2wct.MagnetActiveDesc2=Все дополнительные предметы оставлены на земле.
+gui.tooltips.ae2wct.Not=Нет
+gui.tooltips.ae2wct.Using=С использованием
+gui.tooltips.ae2wct.Ignore=Игнорировать
+gui.tooltips.ae2wct.Ignoring=Игнорирование
+gui.tooltips.ae2wct.NBTData=Данные NBT
+gui.tooltips.ae2wct.MetaData=Метаданные
+gui.tooltips.ae2wct.OreDict=Ore-Dict
+gui.tooltips.ae2wct.FilteredItems=Отфильтрованные элементы
+gui.tooltips.ae2wct.OrPress=или нажмите
+gui.tooltips.ae2wct.Press=Нажимать
+gui.tooltips.ae2wct.ToSwitchMode=для переключения режима магнита
+
+//Labels
+gui.labels.ae2wct.WirelessTermLabel=Беспр. терм.
+
+//Config Descriptions
+config.ae2wct.MaxPowerDesc=Maximum Power in AE units the wireless terminal can hold
+config.ae2wct.InfinityBoosterCfgDesc=Enable Infinite Range Booster Upgrade
+config.ae2wct.EasyModeDesc=Enable Easy Mode (Easier Recipes+Infinity Booster Recipe)
+config.ae2wct.BoosterDropChance=Chance that Wither will drop Infinity Booster Card (in %-100=always drop)
+config.ae2wct.DisableBoosterDrop=Enabled Booster Card drops in hard mode (true=enabled)
+config.ae2wct.MineTweakerOverride=Enable MineTweaker Override (true=disables all recipes)
+config.ae2wct.DoVersionCheck=Check for updates
+config.ae2wct.NewVersionAvailable=New version of Wireless Crafting Terminal is available!
+config.ae2wct.ClickString=["Click here to go to download page [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to download the latest version","color":"green"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/wireless-crafting-terminal"}},"]"]
+
+//Achievements
+achievement.wctAchievement=Верстак с Wi-Fi
+achievement.wctAchievement.desc=Изготовьте беспроводной терминал изготовления.
+achievement.boosterAchievement=Бесконечный мешок
+achievement.boosterAchievement.desc=Изготовьте карту бесконечности.
+achievement.magnetAchievement=Цифровой пылесос
+achievement.magnetAchievement.desc=Изготовьте магнитную карту.
+
+//Chat Messages
+chatmessages.ae2wct.NoNetworkPower=Беспроводная сеть без питания.
+chatmessages.ae2wct.MagnetMode1=Магнитная карта - выключено.
+chatmessages.ae2wct.MagnetMode2=Магнитная карта - предметы, не хранящиеся в сети, будут помещены в инвентарь.
+chatmessages.ae2wct.MagnetMode3=Магнитная карта - предметы, не хранящиеся в сети, будут оставлены на земле.
+chatmessages.ae2wct.InitializeMagnet=Кликните ПКМ держа магнитную карту в руке, прежде чем использовать горячие клавиши!
+
+//Keybindings
+key.OpenTerminal=Открыть беспроводной терминал изготовления
+key.OpenMagnetFilter=Открыть интерфейс магнитной карты
+key.SwitchMagnetMode=Включить/выключить магнитную карту
+key.categories.ae2wct=Беспроводной терминал изготовления

@@ -1,0 +1,7 @@
+﻿occlusionculling:key.category=Отбраковка отсечений
+occlusionculling:key.toggleCulling=Включить/Выключить
+
+occlusionculling:msg.toggleCulling.enable=Отбраковка отсечений включены.
+occlusionculling:msg.toggleCulling.disable=Отбраковка отсечения выключены.
+
+options.occlusionCulling=Отбраковка отсечений
