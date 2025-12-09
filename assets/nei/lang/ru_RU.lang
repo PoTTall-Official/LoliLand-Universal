@@ -284,8 +284,8 @@ nei.options.tools.dump.handlers.mode.1=Json
 
 nei.recipe.page=Страница %s/%s
 nei.recipe.tooltip=Рецепты
-nei.recipe.shaped=Формованный крафт
-nei.recipe.shapeless=Бесформенный крафт
+nei.recipe.shaped=Форменный рецепт
+nei.recipe.shapeless=Бесформенный рецепт
 nei.recipe.furnace=Плавка
 nei.recipe.fuel=Топливо
 nei.recipe.fuel.smeltCount=Плавит %s предметов
@@ -300,7 +300,7 @@ nei.recipe.firework.tooltip0=Красители добавляют цвета к
 nei.recipe.firework.tooltip1=Перекрашивание добавляет цвета затухания к заряду
 nei.recipe.firework.tooltip2=Из одной ракеты могут появиться несколько зарядов
 nei.recipe.brewing=Зельеварение
-nei.recipe.profiler.crafting=Профилирование крафта
+nei.recipe.profiler.crafting=Профилирование рецепта
 nei.recipe.profiler.usage=Использование профилирования
 
 nei.itemsort.minecraft=Minecraft
