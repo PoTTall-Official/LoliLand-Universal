@@ -1,0 +1,28 @@
+# Верстак NASA
+gui.message.addnewsch.name=Добавить схему
+gui.button.unlockschematic.name=Разблокировать
+container.spaceship.name=Верстак NASA
+gui.newSchematic.slot.desc.0=Вставьте сюда схему для
+gui.newSchematic.slot.desc.1=разблокировки. Вы можете найти их
+gui.newSchematic.slot.desc.2=в подземельях на различных
+gui.newSchematic.slot.desc.3=планетах и лунах.
+
+# Очистительный завод
+gui.status.nooil.name=Пусто
+gui.button.refine.name=Запустить
+gui.button.stoprefine.name=Остановить
+gui.status.refining.name=Чистка
+
+# Загрузчик топлива
+gui.status.nofuel.name=Ожидание топлива...
+gui.button.stoploading.name=Остановить
+gui.button.stopunloading.name=Остановить
+gui.button.loadfuel.name=Заправить
+
+gui.status.active.name=Работа
+gui.status.missingleaves.name=Отсутствуют блоки листвы
+gui.status.missingpower.name=Недостаточно энергии
+gui.status.missingoxygen.name=Недостаточно кислорода
+gui.status.missingtank.name=Ожидание баллона...
+gui.status.fulltank.name=Балон полон...
+gui.status.tankEmpty.name=Баллон пуст...
