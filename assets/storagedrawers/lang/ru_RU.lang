@@ -1,0 +1,122 @@
+﻿# Творческие вкладки
+itemGroup.storageDrawers=Storage Drawers
+itemGroup.storageDrawersSorting=Storage Drawers - Сортировка
+
+# Контейнеры
+storageDrawers.container.drawers=Ящик
+storageDrawers.container.compDrawers=Спрессовывающий ящик
+storageDrawers.container.upgrades=Улучшения
+storageDrawers.container.controller=Контроллер ящиков
+storageDrawers.container.unboundSlave=Контроллер ввода-вывода ящиков
+storageDrawers.container.framingTable=Стол для обрамления
+
+# Сообщения
+storagedrawers.msg.maxUpgrades=Ящик имеет максимальное количество улучшений.
+
+# Предметы
+item.storagedrawers.upgradeTemplate.name=Шаблон для улучшений
+item.storagedrawers.upgrade.iron.name=Улучшение хранилища (II)
+item.storagedrawers.upgrade.gold.name=Улучшение хранилища (III)
+item.storagedrawers.upgrade.obsidian.name=Улучшение хранилища (IV)
+item.storagedrawers.upgrade.diamond.name=Улучшение хранилища (V)
+item.storagedrawers.upgrade.emerald.name=Улучшение хранилища (VI)
+item.storagedrawers.upgradeStatus.level1.name=Улучшение "Заполненность" (I)
+item.storagedrawers.upgradeStatus.level1.description=Вывод информации о том, насколько заполнено хранилище.
+item.storagedrawers.upgradeStatus.level2.name=Улучшение "Заполненность" (II)
+item.storagedrawers.upgradeStatus.level2.description=Вывод информации о том, насколько заполнено хранилище.
+item.storagedrawers.upgradeLock.name=Ключ от ящика
+item.storagedrawers.upgradeLock.description=Запирает или отпирает ящик.
+item.storagedrawers.upgradeVoid.name=Улучшение "Пустота"
+item.storagedrawers.upgradeVoid.description=Уничтожает избыточные предметы в хранилище.
+item.storagedrawers.upgradeCreative.store.name=Креативное улучшение хранилища
+item.storagedrawers.upgradeCreative.store.description=Практически бесконечное хранилище.
+item.storagedrawers.upgradeCreative.vend.name=Креативное улучшение "Сделки"
+item.storagedrawers.upgradeCreative.vend.description=Безграничный вывод предметов из хранилища.
+item.storagedrawers.upgradeRedstone.combined.name=Улучшение "Редстоун"
+item.storagedrawers.upgradeRedstone.combined.description=Выдаёт редстоун-сигнал о заполненности хранилища.
+item.storagedrawers.upgradeRedstone.max.name=Улучшение "Редстоун макс."
+item.storagedrawers.upgradeRedstone.max.description=Выдаёт редстоун-сигнал для наиболее заполненного слота.
+item.storagedrawers.upgradeRedstone.min.name="Улучшение "Редстоун мин."
+item.storagedrawers.upgradeRedstone.min.description=Выдаёт редстоун-сигнал для наименее заполненного слота.
+item.storagedrawers.upgradeSorting.name=Улучшение "Сортировка"
+item.storagedrawers.upgradeSorting.description=Интеграция с Refined Relocation.
+item.storagedrawers.shroudKey.name=Ключ сокрытия
+item.storagedrawers.shroudKey.description=Переключает отображение надписей у предметов.
+item.storagedrawers.personalKey.default.name=Персональный ключ
+item.storagedrawers.personalKey.default.description=Защищает доступ к хранилищу от других игроков.
+item.storagedrawers.personalKey.cofh.name=Персональный ключ (CoFH)
+item.storagedrawers.personalKey.cofh.description=Защищает доступ к хранилищу от других игроков.
+item.storagedrawers.tape.name=Упаковочная лента
+item.storagedrawers.tape.description=Упаковывает ящики для перемещения.
+
+# Блоки
+tile.fullDrawers1.oak.name=Ящик из дуба (1x1)
+tile.fullDrawers1.spruce.name=Ящик из ели (1x1)
+tile.fullDrawers1.birch.name=Ящик из берёзы (1x1)
+tile.fullDrawers1.jungle.name=Ящик из тропического дерева (1x1)
+tile.fullDrawers1.acacia.name=Ящик из акации (1x1)
+tile.fullDrawers1.big_oak.name=Ящик из тёмного дуба (1x1)
+
+tile.fullDrawers2.oak.name=Ящик из дуба (1x2)
+tile.fullDrawers2.spruce.name=Ящик из ели (1x2)
+tile.fullDrawers2.birch.name=Ящик из берёзы (1x2)
+tile.fullDrawers2.jungle.name=Ящик из тропического дерева (1x2)
+tile.fullDrawers2.acacia.name=Ящик из акации (1x2)
+tile.fullDrawers2.big_oak.name=Ящик из тёмного дуба (1x2)
+
+tile.fullDrawers4.oak.name=Ящик из дуба (2x2)
+tile.fullDrawers4.spruce.name=Ящик из ели (2x2)
+tile.fullDrawers4.birch.name=Ящик из берёзы (2x2)
+tile.fullDrawers4.jungle.name=Ящик из тропического дерева (2x2)
+tile.fullDrawers4.acacia.name=Ящик из акации (2x2)
+tile.fullDrawers4.big_oak.name=Ящик из тёмного дуба (2x2)
+
+tile.halfDrawers2.oak.name=Полуящик из дуба (1x2)
+tile.halfDrawers2.spruce.name=Полуящик из ели (1x2)
+tile.halfDrawers2.birch.name=Полуящик из берёзы (1x2)
+tile.halfDrawers2.jungle.name=Полуящик из тропического дерева (1x2)
+tile.halfDrawers2.acacia.name=Полуящик из акации (1x2)
+tile.halfDrawers2.big_oak.name=Полуящик из тёмного дуба (1x2)
+
+tile.halfDrawers4.oak.name=Полуящик из дуба (2x2)
+tile.halfDrawers4.spruce.name=Полуящик из ели (2x2)
+tile.halfDrawers4.birch.name=Полуящик из берёзы (2x2)
+tile.halfDrawers4.jungle.name=Полуящик из тропического дерева (2x2)
+tile.halfDrawers4.acacia.name=Полуящик из акации (2x2)
+tile.halfDrawers4.big_oak.name=Полуящик из тёмного дуба (2x2)
+
+tile.fullCustom1.name=Обрамлённый ящик (1x1)
+tile.fullCustom2.name=Обрамлённый ящик (1x2)
+tile.fullCustom4.name=Обрамлённый ящик (2x2)
+tile.halfCustom2.name=Обрамлённый ящик (1x2)
+tile.halfCustom4.name=Обрамлённый ящик (2x2)
+tile.trimCustom.name=Обрамлённая отделка
+
+tile.compDrawers.name=Спрессовывающий ящик
+tile.drawerController.name=Контроллер ящиков
+tile.controllerSlave.name=Контроллер ввода-вывода ящиков
+tile.framingTable.name=Стол для обрамления
+
+tile.trim.oak.name=Отделка из дуба
+tile.trim.spruce.name=Отделка из ели
+tile.trim.birch.name=Отделка из берёзы
+tile.trim.jungle.name=Отделка из тропического дерева
+tile.trim.acacia.name=Отделка из акации
+tile.trim.big_oak.name=Отделка из тёмного дуба
+
+storageDrawers.drawers.description=Количество макс. стопок в хранилище: %d
+storageDrawers.drawers.sealed=Содержимое запечатано в хранилище.
+storageDrawers.upgrade.description=Увеличивает объём хранилища в %d раз(-а).
+storageDrawers.controller.description=Управляет всеми подключёнными ящиками.
+storageDrawers.controllerSlave.description=Увеличивает точки крепления для контроллеров.
+
+# Интеграция с Waila
+storageDrawers.waila.empty=<Пустой>
+storageDrawers.waila.level=Уровень улучшения: %s
+storageDrawers.waila.drawer=Ящик #%s: %s
+storageDrawers.waila.limit=Лимит стопок: %s (x%s)
+storageDrawers.waila.nolimit=Лимит стопок: Без ограничений
+storageDrawers.waila.locked=Закрытый
+storageDrawers.waila.void=Пустотный
+storageDrawers.waila.sorting=Сортирующий
+storageDrawers.waila.protected=Защищённый
