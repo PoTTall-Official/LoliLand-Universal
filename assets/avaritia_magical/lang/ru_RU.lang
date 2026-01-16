@@ -1,4 +1,4 @@
-item.infinity_pickaxe.name=Кирка "Разрушитель миров"
+﻿item.infinity_pickaxe.name=Кирка "Разрушитель миров"
 item.infinity_pickaxe_ultra.name=Кирка "Легендарный разрушитель миров"
 item.infinity_sword.name=Меч "Космический повелитель"
 item.infinity_shovel.name=Лопата "Пожиратель планет"
@@ -6,18 +6,12 @@ item.infinity_axe.name=Топор "Уничтожитель природы"
 item.infinity_bow.name=§cЛук "Небесный жнец"
 item.infinity_hoe.name=Мотыга "Вечного плодородия"
 item.skullfire_sword.name=Меч "Огненный череп"
-item.avaritia_magical_mattercluster.name=§bКластер материи
-item.avaritia_magical_matterclusterfull.name=§bЗаполненный кластер материи
+item.matter_cluster.name=§bКластер материи
+item.matter_cluster.full.name=§bЗаполненный кластер материи
 
-tooltip.matter_cluster.desc=Используйте для разрушения
+tooltip.matter_cluster.desc=Используйте для разрушения.
 tooltip.matter_cluster.desc2=Зажмите "Shift" для подробной информации.
 tooltip.matter_cluster.counter=предметов
-
-tile.CompressedChest.name=§bСжатый сундук
-tile.InfinityChest.name=§6Сундук бесконечности
-
-container.CompressedChest=Сжатый сундук
-container.InfinityChest=Сундук бесконечности
 
 tooltip.fillingRange=%1$s из %2$s
 
