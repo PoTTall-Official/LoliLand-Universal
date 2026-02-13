@@ -26,7 +26,8 @@ All textures, including objects, blocks, entity, GUI, and others have been redra
 10. [MC New Textures - song682](https://modrinth.com/resourcepack/mc-new-textures);
 11. [EnderIO - Refrubished! - imBL4CK_](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) - Some new EnderIO textures;
 12. [Modernity Adjunct - AstroTibs](https://www.curseforge.com/minecraft/texture-packs/modernity-adjunct) - New textures for ThaumicTinkerer;
-13. [Modernity GTNH](https://github.com/ABKQPO/Modernity-GTNH) - A lot of cool stuff.
+13. [Modernity GTNH - ABKQPO](https://github.com/ABKQPO/Modernity-GTNH) - A lot of cool stuff;
+14. [(IU) Power Utilities - denfop](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu) - textures for PowerUtility.
 
 We are eternally grateful to all the people above, their work helped us a lot in developing the this resourcepack.
 This list may be incomplete. If you find your work in the set but it is not in the list, please contact us.
