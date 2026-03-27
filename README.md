@@ -16,19 +16,20 @@ All textures, including objects, blocks, entity, GUI, and others have been redra
 ## Credentials
 1. [Unity - theCyanideX](https://www.curseforge.com/minecraft/texture-packs/unity) - Legacy IC2 and GravitaionSuit textures;
 2. [Better Gendustry - pyrox645](https://www.curseforge.com/minecraft/texture-packs/better-gendustry) - New Gendustry textures;
-3. [Forestry: Community Edition - thedarkcolour](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition) - Some Forestry textures;
+3. [Forestry: Community Edition - thedarkcolour](https://www.curseforge.com/minecraft/mc-mods/forestry-community-edition) - Some Forestry textures [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
 4. [TechGuns Re: - tamlighter](https://www.curseforge.com/minecraft/texture-packs/techgunsre) - Items and blocks for TechGun's;
 5. [Techguns Retexture - yorkmouseLive](https://www.curseforge.com/minecraft/texture-packs/official-osud-texture-pack) - Armor and some entity for TechGun's;
 6. [Thaum-Pack - zozozrob_zadrot](https://www.curseforge.com/minecraft/texture-packs/thaum-pack) - Some ThaumCraft textures;
 7. [FTB Industrial Contraptions - FTB](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions-forge) - Some IC2 textures and unique style;
-8. [GregTechCEu Modern - KilaBash](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern) - Some textures for Loliland: Mekanism addon;
+8. [GregTechCEu Modern - KilaBash](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern) - Some textures for LoliEnergistics [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
 9. [Abandoned Thaumaturgy - andrewvilange](https://discord.gg/rhFwj2bb) - New aspects for ThaumCraft and some addon's;
-10. [MC New Textures - song682](https://modrinth.com/resourcepack/mc-new-textures);
-11. [EnderIO - Refrubished! - imBL4CK_](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) - Some new EnderIO textures;
-12. [Modernity Adjunct - AstroTibs](https://www.curseforge.com/minecraft/texture-packs/modernity-adjunct) - New textures for ThaumicTinkerer;
-13. [Modernity GTNH - ABKQPO](https://github.com/ABKQPO/Modernity-GTNH) - A lot of cool stuff;
-14. [(IU) Power Utilities - denfop](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu) - textures for PowerUtility;
-15. [AlterPack - AlternativeWorld](https://alternativeworld.org/) - ThermalExpansion augments and some things.
+10. [MC New Textures - song682](https://modrinth.com/resourcepack/mc-new-textures) - Some new fixed vanilla textures [[MIT License](https://opensource.org/licenses/MIT)];
+11. [EnderIO - Refrubished! - imBL4CK_](https://www.curseforge.com/minecraft/texture-packs/ender-io-refrubished) - Some new EnderIO textures [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
+12. [Modernity Adjunct - AstroTibs](https://www.curseforge.com/minecraft/texture-packs/modernity-adjunct) - New textures for ThaumicTinkerer [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
+13. [Modernity GTNH - ABKQPO](https://github.com/ABKQPO/Modernity-GTNH) - A lot of cool stuff [[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)];
+14. [(IU) Power Utilities - denfop](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu) - Textures for PowerUtility [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
+15. [AlterPack - AlternativeWorld](https://alternativeworld.org/) - ThermalExpansion augments and some things;
+16. [Re:Avaritia - cnlimiter](https://www.curseforge.com/minecraft/mc-mods/re-avaritia) - Textures for Avaritia [[MIT License](https://opensource.org/licenses/MIT)].
 
 We are eternally grateful to all the people above, their work helped us a lot in developing the this resourcepack.
 This list may be incomplete. If you find your work in the set but it is not in the list, please contact us.
