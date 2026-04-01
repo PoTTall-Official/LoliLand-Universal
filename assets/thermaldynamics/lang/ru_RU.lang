@@ -1,0 +1,69 @@
+﻿itemGroup.thermaldynamics.creativeTab=Thermal Dynamics
+itemGroup.thermaldynamics.creativeTabCovers=Thermal Dynamics: Покрытия
+
+item.thermaldynamics.cover.name=Покрытие - %s
+
+item.thermaldynamics.filter.info=§6Ограничивает то, что может проходить через него.
+item.thermaldynamics.retriever.info=§6Притягивает к себе предметы/жидкости на расстоянии.
+item.thermaldynamics.servo.info=§6Извлекает предметы/жидкости из чего-либо.
+item.thermaldynamics.relay.info=§6Передаёт редстоун сигнал.
+
+item.thermaldynamics.filter.0.name=Насадка: Фильтр
+item.thermaldynamics.filter.1.name=Насадка: Усиленный фильтр
+item.thermaldynamics.filter.2.name=Насадка: Укреплённый фильтр
+item.thermaldynamics.filter.3.name=Насадка: Сигналовый фильтр
+item.thermaldynamics.filter.4.name=Насадка: Резонирующий фильтр
+
+item.thermaldynamics.servo.0.name=Насадка: Сервомеханизм
+item.thermaldynamics.servo.1.name=Насадка: Усиленный сервомеханизм
+item.thermaldynamics.servo.2.name=Насадка: Укреплённый сервомеханизм
+item.thermaldynamics.servo.3.name=Насадка: Сигналовый сервомеханизм
+item.thermaldynamics.servo.4.name=Насадка: Резонирующий сервомеханизм
+
+item.thermaldynamics.retriever.0.name=Насадка: Поисковик
+item.thermaldynamics.retriever.1.name=Насадка: Усиленный поисковик
+item.thermaldynamics.retriever.2.name=Насадка: Укреплённый поисковик
+item.thermaldynamics.retriever.3.name=Насадка: Сигналовый поисковик
+item.thermaldynamics.retriever.4.name=Насадка: Резонирующий поисковик
+
+item.thermaldynamics.relay.name=Насадка: Редстоуновое реле
+
+info.thermaldynamics.capacitance=Ёмкость
+info.thermaldynamics.transfer=Передача
+info.thermaldynamics.transferConnection=Сумма перевода за одно подключение.
+info.thermaldynamics.transferFluid=Скорость передачи зависит от жидкости.
+info.thermaldynamics.toggle=Щёлкните правой кнопкой мыши, чтобы переключить режим.
+
+info.thermaldynamics.duct.energy=Передаёт Redstone Flux (RF).
+info.thermaldynamics.duct.fluid=Передаёт жидкости.
+info.thermaldynamics.duct.item=Передаёт предметы.
+info.thermaldynamics.duct.structure=Обеспечивает структуру.
+info.thermaldynamics.duct.light=Светится при подаче редстоун сигнала.
+info.thermaldynamics.duct.crafting=§6Используется в рецептах.
+info.thermaldynamics.duct.cover=Комбинируйте с блоком для изготовления покрытий.
+info.thermaldynamics.duct.dense=Значительно увеличивает длину пути.
+info.thermaldynamics.duct.vacuum=Значительно сокращает длину пути.
+
+info.thermaldynamics.duct.transport=§6Переносит игроков.
+info.thermaldynamics.duct.transportLongRange=Быстрая транспортировка между двумя конкретными точками.
+info.thermaldynamics.duct.transportCrossover=Конечная точка для виадуков большой протяженности.
+
+info.thermaldynamics.servo.incStackSize=Увелич. размер извлекаемой стопки
+info.thermaldynamics.servo.decStackSize=Уменьш. размер извлекаемой стопки
+
+info.thermaldynamics.servo.extractRate=Скорость извлечения
+info.thermaldynamics.servo.speedBoost=Модификатор скорости
+info.thermaldynamics.servo.maxStackSize=Макс. размер стопки
+info.thermaldynamics.servo.redstoneExt=Требуется редстоун сигнал
+info.thermaldynamics.servo.redstoneInt=Внутреннее управление редстоуном
+info.thermaldynamics.servo.slotMulti=Извлечение из нескольких слотов.
+info.thermaldynamics.servo.slotSingle=Извлечение из одного слота.
+
+recipe.thermaldynamics.covers=Изготовление покрытий
+
+info.thermaldynamics.relay.type.0=Редстоун вход
+info.thermaldynamics.relay.type.1=Редстоун выход
+info.thermaldynamics.relay.type.2=Вход компаратора
+info.thermaldynamics.info.redstone=Редстоун
+info.thermaldynamics.filter.modSorting=Модификация
+tile.thermaldynamics.duct.itemFast.info=Заполнена светокамнем. Предметы перемещаются быстрее.
