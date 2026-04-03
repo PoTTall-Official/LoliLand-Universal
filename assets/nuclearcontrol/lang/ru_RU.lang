@@ -1,6 +1,4 @@
-﻿nc.itemgroup.tab=Nuclear Control 2
-
-item.ItemToolThermometer.name=Термометр
+﻿item.ItemToolThermometer.name=Термометр
 item.ItemToolDigitalThermometer.name=Цифровой термометр
 item.ItemRemoteSensorKit.name=Комплект дистанционных датчиков
 item.ItemEnergySensorKit.name=Комплект датчиков энергии
