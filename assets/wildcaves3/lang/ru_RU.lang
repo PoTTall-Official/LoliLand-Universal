@@ -1,0 +1,61 @@
+﻿# Creative Tab
+itemGroup.WildCaves3=Wild Caves 3
+
+# Ore
+fossil1.name=Руда с окаменелостями
+
+# Stone Stalactite
+stalactite1.name=Двойной каменный сталактит
+stalactite2.name=Средний каменный сталактит
+stalactite3.name=Малый каменный сталактит
+stalactite4.name=Большой каменный сталактит
+stalactiteConnection1.name=Тонкий соединительный каменный сталактит
+stalactiteConnection2.name=Толстый соединительный каменный сталактит
+stalactiteConnection3.name=Нижний соединительный каменный сталактит
+stalactiteConnection4.name=Верхний соединительный каменный сталактит
+stalactiteEnd.name=Окончание каменного сталактита
+
+# Stone Stalagmite
+stalacmiteEnd.name=Основание каменного сталагмита
+stalacmite1.name=Короткий каменный сталагмит
+stalacmite2.name=Верхний каменный сталагмит
+stalacmite3.name=Длинный каменный сталагмит
+
+# Sandstone Stalactite
+sandstoneStalactite1.name=Двойной песчаный сталактит
+sandstoneStalactite2.name=Средний песчаный сталактит
+sandstoneStalactite3.name=Малый песчаный сталактит
+sandstoneStalactite4.name=Большой песчаный сталактит
+sandstoneStalactiteConnection1.name=Тонкий соединительный песчаный сталактит
+sandstoneStalactiteConnection2.name=Толстый соединительный песчаный сталактит
+sandstoneStalactiteConnection3.name=Нижний соединительный песчаный сталактит
+sandstoneStalactiteConnection4.name=Верхний соединительный песчаный сталактит
+sandstoneStalactiteEnd.name=Окончание песчаного сталактита
+
+# Sandstone Stalagmite
+sandstoneStalacmiteEnd.name=Основание песчаного сталагмита
+sandstoneStalacmite1.name=Короткий песчаный сталагмит
+sandstoneStalacmite2.name=Верхний песчаный сталагмит
+sandstoneStalacmite3.name=Длинный песчаный сталагмит
+
+# Glowcap
+glowcap1.name=Большие огнешляпки
+glowcap2.name=Средние огнешляпки
+glowcap3.name=Малые огнешляпки
+glowcap4top.name=Верхняя часть высокой огнешляпки
+glowcap4bottom.name=Нижняя часть высокой огнешляпки
+
+# Gloweed
+gloweed1.name=Огнесорняк
+
+# Iceshroom
+bluecap1.name=Большой ледогриб
+bluecap2.name=Ледогриб
+bluecap3.name=Большие ледогрибы
+bluecap4.name=Ледогрибы
+
+# Icicle
+icicle.name=Сосульки
+icicle1.name=Большие сосульки
+icicle2.name=Средние сосульки
+icicle3.name=Малые сосульки
