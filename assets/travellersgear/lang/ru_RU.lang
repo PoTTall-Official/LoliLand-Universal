@@ -1,0 +1,88 @@
+# Creative Tab
+itemGroup.travellersgear=Traveller's Gear
+
+# Item
+item.TravellersGear.simpleGear.cloak.name=Обычный плащ
+item.TravellersGear.simpleGear.belt.name=Кожаный пояс
+item.TravellersGear.simpleGear.ringGold.name=Золотое кольцо
+item.TravellersGear.simpleGear.ringSilver.name=Серебряное кольцо
+item.TravellersGear.simpleGear.pauldrons.name=Кожаные наплечники
+item.TravellersGear.simpleGear.vambraces.name=Кожаные наручи
+item.TravellersGear.simpleGear.title.name=Свиток титула
+
+# Block
+tile.TravellersGear.armorstand.name=Стойка для брони
+
+# GUI
+TG.guitext.equipment=Снаряжение
+TG.guitext.lvl=Уровень
+TG.guitext.visDiscount=Скидка вис
+
+TG.guitext.preset=Пресеты
+TG.guitext.texture=Текстура
+
+TG.guitext.rightclickToOpen=ПКМ, чтобы открыть
+TG.guitext.linkInChat=Чтобы показать в чате, нажмите Ctrl + ПКМ.
+
+TG.guitext.showPlate=Переключить отображение: Плита
+TG.guitext.showTable=Переключить отображение: Стол
+TG.guitext.showArmor0=Переключить отображение: Шлем
+TG.guitext.showArmor1=Переключить отображение: Нагрудник
+TG.guitext.showArmor2=Переключить отображение: Поножи
+TG.guitext.showArmor3=Переключить отображение: Ботинки
+TG.guitext.showBaubles0=Переключить отображение на столе: Амулет
+TG.guitext.showBaubles1=Переключить отображение на столе: Первое кольцо
+TG.guitext.showBaubles2=Переключить отображение на столе: Второе кольцо
+TG.guitext.showBaubles3=Переключить отображение на столе: Пояс
+TG.guitext.showTG0=Переключить отображение на столе: Плащ
+TG.guitext.showTG1=Переключить отображение на столе: Наплечники
+TG.guitext.showTG2=Переключить отображение на столе: Наручи
+TG.guitext.showMari0=Переключить отображение на столе: Кольцо
+TG.guitext.showMari1=Переключить отображение на столе: Браслет
+TG.guitext.showMari2=Переключить отображение на столе: Ожерелье
+
+TG.guitext.renderBaubles0=Переключить отображение на стойке: Амулет
+TG.guitext.renderBaubles1=Переключить отображение на стойке: Первое кольцо
+TG.guitext.renderBaubles2=Переключить отображение на стойке: Второе кольцо
+TG.guitext.renderBaubles3=Переключить отображение на стойке: Пояс
+TG.guitext.renderTG0=Переключить отображение на стойке: Плащ
+TG.guitext.renderTG1=Переключить отображение на стойке: Наплечники
+TG.guitext.renderTG2=Переключить отображение на стойке: Наручи
+TG.guitext.style=Стиль >
+
+TG.guitext.add=Добавить
+TG.guitext.rem=Удалить
+TG.guitext.translation=Смещение
+TG.guitext.rotation=Вращение
+TG.guitext.scale=Масштаб
+TG.guitext.hideWhenEquipped=Скрывать при экипировке
+TG.guitext.rotateWithHead=Вращать с головой
+
+# Chat Text
+TG.chattext.showItem=%1$s показывает предмет: %2$s
+
+# Gear Slot
+TG.desc.gearSlot.tg.0=Слот: §6Плащ
+TG.desc.gearSlot.tg.1=Слот: §6Наплечники
+TG.desc.gearSlot.tg.2=Слот: §6Наручи
+TG.desc.gearSlot.tg.3=Слот: §6Титул
+TG.desc.gearSlot.bauble.RING=Слот: §6Кольцо
+TG.desc.gearSlot.bauble.BELT=Слот: §6Пояс
+TG.desc.gearSlot.bauble.AMULET=Слот: §6Амулет
+
+# Keybind
+TG.keybind.openInv=Открыть инвентарь снаряжений
+TG.keybind.activeaAbilities=Активные способности снаряжений
+
+# Title
+TG.personaltitle.treepuncher=Профессиональный древобой
+TG.personaltitle.titan=Старатель Титана
+TG.personaltitle.librarian=Библиотекарь
+TG.personaltitle.bursar=Казначей
+TG.personaltitle.archchancellor=Аркканцлер
+TG.personaltitle.justicar=Юстициарий
+TG.personaltitle.explorer=Странствующий исследователь
+TG.personaltitle.defender=Праведный защитник
+TG.personaltitle.seeker=Искатель сокровищ
+TG.personaltitle.boxFox=Лиса в коробке
+TG.personaltitle.freshPrince=Свежий принц
