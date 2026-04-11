@@ -30,7 +30,10 @@ All textures, including objects, blocks, entity, GUI, and others have been redra
 14. [(IU) Power Utilities - denfop](https://www.curseforge.com/minecraft/mc-mods/power-utilities-iu) - Textures for PowerUtility [[GNU LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.en.html)];
 15. [AlterPack - AlternativeWorld](https://alternativeworld.org/) - ThermalExpansion augments and some things;
 16. [Re:Avaritia - cnlimiter](https://www.curseforge.com/minecraft/mc-mods/re-avaritia) - Textures for Avaritia [[MIT License](https://opensource.org/licenses/MIT)];
-17. [Energy Control VL Pack - MBAID](https://www.curseforge.com/minecraft/texture-packs/energy-control-vanilla-pack) - Textures for Nuclear Control 2.
+17. [Energy Control VL Pack - MBAID](https://www.curseforge.com/minecraft/texture-packs/energy-control-vanilla-pack) - Textures for Nuclear Control 2;
+18. [BQ Custom Theme: Reinforced Neon - kastaqt](https://www.curseforge.com/minecraft/customization/bq-custom-theme-reinforced-neon) - a custom Reinforced-Neon theme for BetterQuesting [[MIT License](https://opensource.org/licenses/MIT)];
+19. [BQ Custom Theme: Midnight - kastaqt](https://www.curseforge.com/minecraft/customization/bq-custom-theme-midnight) - a custom Midnight theme for BetterQuesting [[MIT License](https://opensource.org/licenses/MIT)].
+
 
 We are eternally grateful to all the people above, their work helped us a lot in developing the this resourcepack.
 This list may be incomplete. If you find your work in the set but it is not in the list, please contact us.
