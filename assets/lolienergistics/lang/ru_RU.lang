@@ -1,0 +1,56 @@
+# Mekanism
+lolienergistics:tile.salt_block.name=Блок соли
+lolienergistics:tile.steel_casing.name=Стальной корпус
+
+lolienergistics:item.substrate.name=Субстрат
+lolienergistics:item.hdpe_pellet.name=§eПолиэтилен
+lolienergistics:item.hdpe_rod.name=§eПолиэтиленовый стержень
+lolienergistics:item.hdpe_sheet.name=§eПолиэтиленовый лист
+lolienergistics:item.bio_fuel.name=Биотопливо
+lolienergistics:item.salt.name=Соль
+lolienergistics:item.compressed_diamond.name=Обогащённый алмаз
+lolienergistics:item.compressed_obsidian.name=Обогащённый обсидиан
+lolienergistics:item.electrolytic_core.name=§eЭлектролитическое ядро
+
+lolienergistics:item.atomic_disassembler.name=Атомный разборщик
+
+lolienergistics:item.atomic_disassembler.mode.normal=Обычный
+lolienergistics:item.atomic_disassembler.mode.slow=Медленный
+lolienergistics:item.atomic_disassembler.mode.fast=Быстрый
+lolienergistics:item.atomic_disassembler.mode.vein=Добыча жил
+lolienergistics:item.atomic_disassembler.mode.off=Выключен
+
+tile.OreBlock.OsmiumOre.name=Осмиевая руда
+tile.OreBlock.CopperOre.name=Медная руда
+tile.OreBlock.TinOre.name=Оловянная руда
+
+tile.BasicBlock.OsmiumBlock.name=Осмиевый блок
+tile.BasicBlock.BronzeBlock.name=Бронзовый блок
+tile.BasicBlock.RefinedObsidian.name=Очищенный обсидиановый блок
+tile.BasicBlock.CharcoalBlock.name=Древесноугольный блок
+tile.BasicBlock.RefinedGlowstone.name=Очищенный светокаменный блок
+tile.BasicBlock.SteelBlock.name=Стальной блок
+tile.BasicBlock.CopperBlock.name=Медный блок
+tile.BasicBlock.TinBlock.name=Оловянный блок
+
+item.obsidianIngot.name=Очищенный обсидиановый слиток
+item.osmiumIngot.name=Осмиевый слиток
+item.bronzeIngot.name=Бронзовый слиток
+item.glowstoneIngot.name=Очищенный светокаменный слиток
+item.steelIngot.name=Стальной слиток
+item.copperIngot.name=Медный слиток
+item.tinIngot.name=Оловянный слиток
+
+item.ironDust.name=Железная пыль
+item.goldDust.name=Золотая пыль
+item.osmiumDust.name=Осмиевая пыль
+item.obsidianDust.name=Обсидиановая пыль
+item.refinedobsidianDust.name=Пыль очищенного обсидиана
+item.diamondDust.name=Алмазная пыль
+item.steelDust.name=Стальная пыль
+item.copperDust.name=Медная пыль
+item.tinDust.name=Оловянная пыль
+item.silverDust.name=Серебряная пыль
+item.leadDust.name=Свинцовая пыль
+item.sulfurDust.name=Серная пыль
+item.lithiumDust.name=Литиевая пыль

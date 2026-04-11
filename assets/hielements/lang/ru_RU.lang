@@ -1,0 +1,18 @@
+# Mekanism
+hielements:item.teleportation_core.name=§bЯдро телепортации
+hielements:item.iron_crystal.name=Железный кристалл
+hielements:item.gold_crystal.name=Золотой кристалл
+hielements:item.osmium_crystal.name=Осмиевый кристалл
+hielements:item.copper_crystal.name=Медный кристалл
+hielements:item.tin_crystal.name=Оловянный кристалл
+hielements:item.silver_crystal.name=Серебряный кристалл
+hielements:item.lead_crystal.name=Свинцовый кристалл
+hielements:item.enriched_alloy.name=§eНаполненный сплав
+hielements:item.reinforced_alloy.name=§bУкреплённый сплав
+hielements:item.atomic_alloy.name=§dАтомный сплав
+hielements:item.basic_control_circuit.name=§aБазовая схема управления
+hielements:item.advanced_control_circuit.name=§cПродвинутая схема управления
+hielements:item.elite_control_circuit.name=§bЭлитная схема управления
+hielements:item.perfect_control_circuit.name=§dСовершенная схема управления
+hielements:item.compressed_redstone.name=Обогащённый редстоун
+hielements:item.compressed_coal.name=Обогащённый углерод
