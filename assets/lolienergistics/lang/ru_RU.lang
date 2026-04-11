@@ -54,3 +54,10 @@ item.silverDust.name=Серебряная пыль
 item.leadDust.name=Свинцовая пыль
 item.sulfurDust.name=Серная пыль
 item.lithiumDust.name=Литиевая пыль
+
+# Upgrade
+lolienergistics:item.upgrade_liquid_tightener.name=Улучшение: Жидкостный затягиватель
+lolienergistics:item.upgrade_gas_ejector.name=Улучшение: Газовый выталкиватель
+lolienergistics:item.upgrade_gas_puller.name=Улучшение: Газовый затягиватель
+lolienergistics:item.upgrade_speed_1.name=Улучшение: Улучшенный ускоритель
+lolienergistics:item.upgrade_speed_2.name=Улучшение: Продвинутый ускоритель
