@@ -1,1 +1,57 @@
 loli_utility:tile.infinity_chest.name=Сундук бесконечности
+
+item.UpgradeFTSmelting.name=Улучшение: Автоплавка
+info.UpgradeFTSmelting1.txt=Плавит руды по типу железа, золота
+info.UpgradeFTSmelting2.txt=и аналогичные руды в Преобразователе удачи.
+
+item.UpgradeFTStack.name=Улучшение: Стак
+info.UpgradeFTStack1.txt=Перерабатывает по 64 руды в каждом слоте
+info.UpgradeFTStack2.txt=за 1 операцию в Преобразователе удачи.
+
+item.UpgradeFTInfinite.name=Улучшение: Бесконечный двигатель
+info.UpgradeFTInfinite1.txt=Отменяет затраты энергии
+info.UpgradeFTInfinite2.txt=в Преобразователе удачи.
+
+loli_utility:item.subject_case_default.name=Обычный кейс
+loli_utility:item.subject_case_copper.name=Медный кейс
+loli_utility:item.subject_case_amethyst.name=Аметистовый кейс
+loli_utility:item.subject_case_diamond.name=Алмазный кейс
+loli_utility:item.subject_case_emerald.name=Изумрудный кейс
+loli_utility:item.subject_case_gold.name=Золотой кейс
+loli_utility:item.subject_case_iron.name=Железный кейс
+loli_utility:item.subject_case_lapis.name=Лазуритовый кейс
+loli_utility:item.subject_case_netherite.name=Незеритовый кейс
+loli_utility:item.subject_case_quartz.name=Кварцевый кейс
+loli_utility:item.subject_case_redstone.name=Редстоуновый кейс
+loli_utility:item.subject_case_obsidian.name=Обсидиановый кейс
+
+loli_utility:tile.lucky_block_default.name=Обычный лаки-блок
+loli_utility:tile.lucky_block_copper.name=Медный лаки-блок
+loli_utility:tile.lucky_block_amethyst.name=Аметистовый лаки-блок
+loli_utility:tile.lucky_block_diamond.name=Алмазный лаки-блок
+loli_utility:tile.lucky_block_emerald.name=Изумрудный лаки-блок
+loli_utility:tile.lucky_block_gold.name=Золотой лаки-блок
+loli_utility:tile.lucky_block_iron.name=Железный лаки-блок
+loli_utility:tile.lucky_block_lapis.name=Лазуритовый лаки-блок
+loli_utility:tile.lucky_block_netherite.name=Незеритовый лаки-блок
+loli_utility:tile.lucky_block_quartz.name=Кварцевый лаки-блок
+loli_utility:tile.lucky_block_redstone.name=Редстоуновый лаки-блок
+loli_utility:tile.lucky_block_obsidian.name=Обсидиановый лаки-блок
+
+gui.tooltip.redstoneControlMode=Режим редстоуна
+
+tile.CKeyStone.name=Творческий ключевой камень
+loli_utility:tile.ckey_stone.name=Творческий ключевой камень
+item.Key.name=Ключ
+
+msg.wrongKey.txt=Ключ не подходит к этому замку.
+msg.cKeyStoneType0.txt=Постоянная активация (С ключом).
+msg.cKeyStoneType1.txt=Активация с кнопки.
+msg.cKeyStoneType2.txt=Переключение активации.
+msg.cKeyStoneType3.txt=Активация с кнопки (С ключом).
+
+gui.trade_o_mat.want=Заберу:
+gui.trade_o_mat.offer=Отдам:
+gui.trade_o_mat.totalTrades0=Заключено
+gui.trade_o_mat.totalTrades1=сделок:
+gui.trade_o_mat.stock=Всего:
