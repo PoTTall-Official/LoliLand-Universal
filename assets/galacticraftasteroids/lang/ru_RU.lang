@@ -1,0 +1,142 @@
+﻿#General
+item.itemTier3Rocket.t3Rocket.name=Ракета 3-го уровня
+item.itemAstroMiner.name=Астрономический шахтёр
+item.heavyNoseCone.name=Головной обтекатель 2-го уровня
+item.compressedTitanium.name=Спрессованный титан
+item.ingotTitanium.name=Титановый слиток
+item.shardTitanium.name=Рудный титан
+item.shardIron.name=Осколок железа
+item.rocketFinsT2.name=Ракетный стабилизатор 2-го уровня
+item.engineT2.name=Ракетный двигатель 2-го уровня
+item.reinforcedPlateT3.name=Высокопрочная пластина 3-го уровня
+item.grapple.name=Крюк
+item.atmosphericValve.name=Атмосферный клапан
+item.thermalCloth.name=Термоткань
+item.beamCore.name=Лучевое ядро
+item.orionDrive.name=Двигатель "Орион"
+item.tier3.desc=Уровень 3
+
+#Tool
+item.titanium_pickaxe.name=Титановая кирка
+item.titanium_axe.name=Титановый топор
+item.titanium_hoe.name=Титановая мотыга
+item.titanium_shovel.name=Титановая лопата
+item.titanium_sword.name=Титановый меч
+
+#Armor
+item.thermalHelm.name=Теплозащитный шлем
+item.thermalChestplate.name=Теплозащитный нагрудник
+item.thermalLeggings.name=Теплозащитные поножи
+item.thermalBoots.name=Теплозащитные ботинки
+item.titanium_helmet.name=Титановый шлем
+item.titanium_chestplate.name=Титановый нагрудник
+item.titanium_leggings.name=Титановые поножи
+item.titanium_boots.name=Титановые ботинки
+
+#Canister
+item.methaneCanisterPartial.name=Частично заполненная канистра с метаном
+item.methaneCanister.name=Заполненная канистра с метаном
+item.canister.gas.name=Метан
+item.canister.LOX.partial.name=Частично заполненная канистра с жидким кислородом
+item.canister.LOX.full.name=Заполненная канистра с жидким кислородом
+item.canister.LOX.name=Жидкий кислород
+item.canister.liquidNitrogen.partial.name=Частично заполненная канистра с жидким азотом
+item.canister.liquidNitrogen.full.name=Заполненная канистра с жидким азотом
+item.canister.liquidNitrogen.name=Жидкий азот
+item.canister.liquidArgon.partial.name=Частично заполненная канистра с жидким аргоном
+item.canister.liquidArgon.full.name=Заполненная канистра с жидким аргоном
+item.canister.liquidArgon.name=Жидкий аргон
+item.emptyGasCanister.name=Пустая газовая канистра
+
+#FlugidGas
+fluid.methane=Газообразный метан
+fluid.oxygen=Газообразный кислород
+fluid.nitrogen=Газообразный азот
+fluid.hydrogen=Газообразный водород
+fluid.carbondioxide=Углекислый газ
+fluid.helium=Газообразный гелий
+fluid.argon=Газообразный аргон
+fluid.atmosphericgases=Атмосферные газы
+fluid.liquidmethane=Жидкий метан
+fluid.liquidoxygen=Жидкий кислород
+fluid.liquidnitrogen=Жидкий азот
+fluid.liquidargon=Жидкий аргон
+fluid.fuel=Ракетное топливо
+
+#Block
+tile.asteroidsBlock.asteroid0.name=Тёмный астероидный камень
+tile.asteroidsBlock.asteroid1.name=Астероидный камень
+tile.asteroidsBlock.asteroid2.name=Светлый астероидный камень
+tile.asteroidsBlock.oreIron.name=Астероидная железная руда
+tile.asteroidsBlock.oreIlmenite.name=Астероидная ильменитовая руда
+tile.asteroidsBlock.oreAluminum.name=Астероидная алюминиевая руда
+tile.beamReflector.name=Отражатель энергетического луча
+tile.beamReceiver.name=Приёмник энергетического луча
+tile.telepadShort.name=Телепорт малого радиуса
+tile.walkway.name=Дорожка
+tile.walkwayWire.name=Дорожка с алюминиевым проводом
+tile.walkwayOxygenPipe.name=Дорожка с кислородной трубой
+tile.treasureT3.name=Сундук с сокровищами 3-го уровня
+tile.denseIce.name=Плотный лёд
+tile.minerBase.name=База астрономического шахтёра
+
+#GUI
+planet.asteroids=Астероиды
+gui.telepad.desc.0=Устанавливает уникальный адрес телепорта.
+gui.telepad.desc.1=Устанавливает адрес другого телепорта.
+gui.message.address.name=Адрес
+gui.message.destAddress.name=Целевой адрес
+gui.message.invalidAddress.name=Неверный уникальный адрес
+gui.message.invalidTargetAddress.name=Неверный целевой адрес
+gui.message.receivingActive.name=Приём активен
+gui.message.telepadTooFar.name=Цель слишком далеко! (Макс. %d)
+gui.message.telepadWrongDim.name=Цель находится в другом измерении!
+gui.message.telepadNotFound.name=Телепорт не найден!
+gui.message.sendingActive.name=Отправка активна
+gui.message.range.name=Дальность: %dm
+gui.message.notEnoughEnergy.name=Недостаточно энергии!
+gui.message.targetNoEnergy.name=У цели недостаточно энергии!
+gui.message.grapple.fail=Мне понадобится нить, если я хочу бросить этот крюк!
+gui.message.astroMiner.fail=У этой базы уже есть астрономический шахтёр!
+gui.message.astroMiner1.fail=Зона стыковки заблокирована:
+gui.message.astroMiner1A.fail=Зона стыковки заблокирована:
+gui.message.astroMiner2.fail=Это будет слишком много астрономических шахтёров!
+gui.message.astroMiner3.fail=База астрономического шахтёра была удалена!
+gui.message.astroMiner4.fail=У астрономического шахтёра мало энергии, и он не может вернуться на базу!
+gui.message.astroMiner5.fail=Маршрут астрономического шахтёра к его базе заблокирован!
+gui.message.astroMiner6.fail=астрономический шахтёр закончил добычу в этой области и теперь остановится!
+gui.message.astroMiner7.fail=На космической станции астрономическому шахтёру нечего добывать!
+gui.message.astroMiner8.fail=На той же базе обнаружен второй астрономический шахтёр, первый теперь остановится.
+gui.button.recall.name=Отозвать
+gui.miner.outOfRange=Вне зоны действия
+gui.miner.offline=Вне сети
+gui.miner.stuck=Застрял на:
+gui.miner.docked=Пристыкован
+gui.miner.travelling=В пути
+gui.miner.mining=Добыча
+gui.miner.returning=Возвращение
+gui.miner.docking=Стыковка
+gui.miner.mined=Добыто
+
+tile.treasureT3.description=Сундук с сокровищами 3-го уровня в настоящее время не используется.
+tile.walkway.description=Дорожка используется в декоративных целях для соединения блоков с сохранением космической тематики.
+tile.walkwayAluminumWire.description=Дорожка с алюминиевым проводом используется для прокладки проводов под полноценной пешеходной поверхностью.
+tile.walkwayOxygenPipe.description=Дорожка с кислородной трубой используется для прокладки труб под полноценной пешеходной поверхностью.
+tile.beamReflector.description=Отражатель энергетического луча используется для перенаправления энергетических лучей от источника к цели. Нажмите правой кнопкой мыши, чтобы переключаться между целями.
+tile.beamReceiver.description=Приёмник энергетического луча подключается ко входу и выходу энергетических устройств для передачи энергии с помощью лучей.
+tile.telepadShort.description=Телепорт малого радиуса используется для перемещения игроков и других сущностей на небольшие расстояния (250 блоков) при связывании с другими телепортами.
+tile.minerBase.description=База астрономического шахтёра - это точка стыковки для астрономического шахтёра. Она большая... попробуйте собрать из неё куб 2х2х2.
+
+#Schematic
+schematic.astroMiner.name=Астрономический шахтёр
+
+#Entity
+entity.SmallAsteroidGC.name=Малый астероид
+entity.GrappleHookGC.name=Крюк-кошка
+entity.Tier3RocketGC.name=Ракета 3-го уровня
+entity.EntryPodAsteroids.name=Космическая посадочная капсула
+entity.AstroMiner.name=Астрономический шахтёр
+
+#Contaiiner
+container.shortRangeTelepad.name=Телепорт малого радиуса
+container.entryPod.name=Космическая посадочная капсула
