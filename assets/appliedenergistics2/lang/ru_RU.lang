@@ -1,4 +1,4 @@
-# GTNH
+#GTNH
 gui.appliedenergistics2.NetworkBytesDetails=Информация о сети
 gui.appliedenergistics2.Items=Предметы
 gui.appliedenergistics2.Fluids=Жидкости
@@ -61,8 +61,6 @@ chat.appliedenergistics2.CraftingItemsWentMissing=Изготовление пр�
 
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000
-gui.color.appliedenergistics2.SearchboxFocused=6E000000
-gui.color.appliedenergistics2.SearchboxUnfocused=00000000
 gui.color.appliedenergistics2.ItemSlotOverlayUnpowered=66111111
 gui.color.appliedenergistics2.ItemSlotOverlayInvalid=66ff6666
 gui.color.appliedenergistics2.CraftConfirmMissingItem=1BFF0000
@@ -70,7 +68,7 @@ gui.color.appliedenergistics2.CraftingCPUActive=5A45A021
 gui.color.appliedenergistics2.CraftingCPUScheduled=100FF1A
 gui.color.appliedenergistics2.InterfaceTerminalMatch=2A00FF00
 
-# Block
+#Block
 tile.appliedenergistics2.BlockCableBus.name=AE2 кабель и/или шина
 tile.appliedenergistics2.BlockCellWorkbench.name=Верстак для ячеек
 tile.appliedenergistics2.BlockChest.name=МЭ сундук
@@ -84,11 +82,11 @@ tile.appliedenergistics2.BlockEnergyAcceptor.name=Приёмщик энерги�
 tile.appliedenergistics2.BlockIOPort.name=МЭ порт ввода/вывода
 tile.appliedenergistics2.BlockInterface.name=МЭ интерфейс
 tile.appliedenergistics2.BlockFluix.name=Блок флюиса
-tile.appliedenergistics2.BlockQuartz.name=Блок истинного кварца
+tile.appliedenergistics2.BlockQuartz.name=Блок чистого кварца
 tile.appliedenergistics2.BlockQuartzGlass.name=Кварцевое стекло
 tile.appliedenergistics2.BlockWireless.name=МЭ беспроводная точка доступа
-tile.appliedenergistics2.OreQuartz.name=Руда истинного кварца
-tile.appliedenergistics2.OreQuartzCharged.name=Руда заряженного истинного кварца
+tile.appliedenergistics2.OreQuartz.name=Руда чистого кварца
+tile.appliedenergistics2.OreQuartzCharged.name=Руда заряженного чистого кварца
 tile.appliedenergistics2.BlockSkyStone.name=Небесный камень
 tile.appliedenergistics2.BlockCraftingMonitor.name=Монитор изготовления
 tile.appliedenergistics2.BlockCraftingStorage.name=1К хранилище изготовления
@@ -99,7 +97,7 @@ tile.appliedenergistics2.BlockCraftingAccelerator.name=Блок обработк
 tile.appliedenergistics2.BlockCraftingUnit.name=Блок изготовления
 tile.appliedenergistics2.BlockMolecularAssembler.name=Молекулярный сборщик
 
-# Chat Message
+#Chat Message
 chat.appliedenergistics2.ChestCannotReadStorageCell=МЭ сундук не может прочитать ячейку хранения.
 chat.appliedenergistics2.SettingCleared=Очищена карта памяти.
 chat.appliedenergistics2.OutOfRange=Беспроводная сеть вне досягаемости.
@@ -118,27 +116,26 @@ chat.appliedenergistics2.AmmoDepleted=Боеприпасы исчерпаны.
 chat.appliedenergistics2.isNowLocked=Монитор теперь заблокирован.
 chat.appliedenergistics2.isNowUnlocked=Монитор теперь разблокирован.
 chat.appliedenergistics2.NoNetworkPower=Сеть без питания.
+chat.appliedenergistics2.NetworkToolOnlyNetwork=Сетевой инструмент может использоваться только на МЭ-сети!
 
-#  Creative Tab
+#Creative Tab
 itemGroup.appliedenergistics2=Applied Energistics 2
 itemGroup.appliedenergistics2.facades=Applied Energistics 2 - Фасады
 
-# GUI
+#GUI
 gui.appliedenergistics2.CraftingTerminal=Терминал изготовления
 gui.appliedenergistics2.METunnel=Каналы
 gui.appliedenergistics2.ItemTunnel=Предметы
 gui.appliedenergistics2.FluidTunnel=Жидкости
 gui.appliedenergistics2.RedstoneTunnel=Редстоун-сигнал
 gui.appliedenergistics2.EUTunnel=Энергия EU
-gui.appliedenergistics2.RFTunnel=Энергия RF
 gui.appliedenergistics2.OCTunnel=OpenComputers
-gui.appliedenergistics2.PressureTunnel=Давление
 
 gui.appliedenergistics2.Efficiency=Эффективность
 gui.appliedenergistics2.RequiredPower=Требуется энергии
 gui.appliedenergistics2.StoredPower=Накопленная энергия
 gui.appliedenergistics2.MaxPower=Макс. энергия
-gui.appliedenergistics2.QuartzCuttingKnife=Режущий нож из истин. кварца
+gui.appliedenergistics2.QuartzCuttingKnife=Режущий нож из чист. кварца
 gui.appliedenergistics2.Wireless=Беспроводная точка доступа
 gui.appliedenergistics2.WirelessTerminal=Беспр. терм.
 gui.appliedenergistics2.NoPermissions=Нет выбранных разрешений
@@ -179,7 +176,7 @@ gui.appliedenergistics2.Types=видов
 gui.appliedenergistics2.Blank=Пустой
 gui.appliedenergistics2.Unlinked=Не сопряжён
 gui.appliedenergistics2.Linked=Сопряжён
-gui.appliedenergistics2.StoredSize=Хранящиеся размер
+gui.appliedenergistics2.StoredSize=Хранящийся размер
 gui.appliedenergistics2.PatternTerminal=Кодирование шаблона
 gui.appliedenergistics2.CraftingPattern=Шаблоны изготовления
 gui.appliedenergistics2.MolecularAssembler=Молекулярный сборщик
@@ -192,13 +189,13 @@ gui.appliedenergistics2.Substitute=Замещение включено:
 gui.appliedenergistics2.Yes=Да
 gui.appliedenergistics2.No=Нет
 gui.appliedenergistics2.InWorldCrafting=AE2 изготовления в мире
-gui.appliedenergistics2.inWorldFluix=Чтобы изготовить, бросьте в воду 1 Заряженный истинный кварц + 1 Незер-кварц + 1 Редстоуновую пыль рядом, немного подождите, и Вы получите 2 флюисовых кристалла.
-gui.appliedenergistics2.inWorldPurificationCertus=Чтобы изготовить, бросьте в воду 1 Семя истинного кварца в воду, подождите, и Вы получите чистый кристалл истинного кварца. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
-gui.appliedenergistics2.inWorldPurificationNether=Чтобы изготовить, бросьте в воду 1 Семя незер-кварца в воду, подождите, и Вы получите чистый кристалл незер-кварца. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
-gui.appliedenergistics2.inWorldPurificationFluix=Чтобы изготовить, бросьте в воду 1 Семя флюисового кристалла в воду, подождите, и Вы получите чистый флюисовый кристалл. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
+gui.appliedenergistics2.inWorldFluix=Чтобы изготовить, бросьте в воду 1 Заряженный чистый кварц + 1 Адский кварц + 1 Редстоуновую пыль рядом, немного подождите, и Вы получите 2 флюисовых кристалла.
+gui.appliedenergistics2.inWorldPurificationCertus=Чтобы изготовить, бросьте 1 Семя чистого кварца в воду, подождите, и Вы получите чистый кристалл чистого кварца. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
+gui.appliedenergistics2.inWorldPurificationNether=Чтобы изготовить, бросьте 1 Семя адского кварца в воду, подождите, и Вы получите чистый кристалл адского кварца. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
+gui.appliedenergistics2.inWorldPurificationFluix=Чтобы изготовить, бросьте 1 Семя флюисового кристалла в воду, подождите, и Вы получите чистый флюисовый кристалл. Процесс можно ускорить с помощью ускорителей роста или в камере роста.
 gui.appliedenergistics2.inWorldSingularity=Чтобы изготовить, бросьте 1 Сингулярность + 1 Эндер-пыль и инициируйте взрыв в пределе диапазона предметов.
-gui.appliedenergistics2.ChargedQuartz=Чтобы изготовить, вставьте 1 Кристалл истинного кварца в зарядник, немного подождите, и Вы получите заряженный кристалл истинного кварца. Процесс можно ускорить в камере зарядки.
-gui.appliedenergistics2.ChargedQuartzFind=Вы можете найти заряженный кристалл истинного кварца в виде руды в мире. Он отличается от обычного тем, что испускает искры рядом с собой.
+gui.appliedenergistics2.ChargedQuartz=Чтобы изготовить, вставьте 1 Кристалл чистого кварца в зарядник, немного подождите, и Вы получите заряженный кристалл чистого кварца. Процесс можно ускорить в камере зарядки.
+gui.appliedenergistics2.ChargedQuartzFind=Вы можете найти заряженный кристалл чистого кварца в виде руды в мире. Он отличается от обычного тем, что испускает искры рядом с собой.
 gui.appliedenergistics2.NoSecondOutput=Нет вторичного выхода
 gui.appliedenergistics2.OfSecondOutput=Шанс вторичного выхода: %1$d%%
 gui.appliedenergistics2.MultipleOutputs=%1$d%% вторичного, %2$d%% третичного выхода.
@@ -222,7 +219,7 @@ gui.appliedenergistics2.Start=Начать
 gui.appliedenergistics2.Missing=§cНе хватает
 gui.appliedenergistics2.Bytes=Хранилище
 gui.appliedenergistics2.Simulation=Моделирование...
-gui.appliedenergistics2.CoProcessors=Со-процессоры
+gui.appliedenergistics2.CoProcessors=Сопроцессоры
 gui.appliedenergistics2.CraftingCPU=ЦП изготовления
 gui.appliedenergistics2.NoCraftingCPUs=Нет доступных ЦП
 gui.appliedenergistics2.CalculatingWait=Вычисление, подождите...
@@ -238,7 +235,7 @@ gui.appliedenergistics2.Included=Включён
 gui.appliedenergistics2.Excluded=Исключён
 gui.appliedenergistics2.Partitioned=Разделён
 gui.appliedenergistics2.Precise=Точная
-gui.appliedenergistics2.Fuzzy=Размытое
+gui.appliedenergistics2.Fuzzy=Размытая
 gui.appliedenergistics2.SmallFontCraft=+
 gui.appliedenergistics2.LargeFontCraft=+
 gui.appliedenergistics2.Nothing=Ничего
@@ -246,7 +243,7 @@ gui.appliedenergistics2.Nothing=Ничего
 gui.appliedenergistics2.CellContent=Содержит предметов: %s
 gui.appliedenergistics2.CellContentOther=Содержит: %s
 
-# GUI Tooltip
+#GUITooltip
 gui.tooltips.appliedenergistics2.Stash=Вернуть предметы
 gui.tooltips.appliedenergistics2.StashDesc=Возвращает предметы из сетки изготовления обратно в сетевое хранилище.
 gui.tooltips.appliedenergistics2.Substitutions=Ore-Dict замещение
@@ -255,7 +252,7 @@ gui.tooltips.appliedenergistics2.SubstitutionsDescDisabled=Замещение к
 gui.tooltips.appliedenergistics2.SubstitutionsOn=Замещение включено
 gui.tooltips.appliedenergistics2.SubstitutionsOff=Замещение выключено
 gui.tooltips.appliedenergistics2.Encode=Закодировать шаблон
-gui.tooltips.appliedenergistics2.EncodeDescription=Запишите введённый рецепт в текущий закодированный шаблон, или на пустой доступный шаблон.
+gui.tooltips.appliedenergistics2.EncodeDescription=Запишите введённый рецепт в текущий закодированный шаблон или на пустой доступный шаблон.
 gui.tooltips.appliedenergistics2.FuzzyMode=Размытое сравнение
 gui.tooltips.appliedenergistics2.FZPercent_25=Разделение урона на 25%
 gui.tooltips.appliedenergistics2.FZPercent_50=Разделение урона на 50%
@@ -284,8 +281,8 @@ gui.tooltips.appliedenergistics2.TrashController=Удаление через н�
 gui.tooltips.appliedenergistics2.InterfaceBlockingMode=Режим блокирования
 gui.tooltips.appliedenergistics2.InterfaceCraftingMode=Режим изготовления
 gui.tooltips.appliedenergistics2.Trash=Уничтожить предметы
-gui.tooltips.appliedenergistics2.MatterBalls=Конденсировать в шары материи\n%s за предмет.
-gui.tooltips.appliedenergistics2.Singularity=Конденсировать в сингулярности\n%s за предмет.
+gui.tooltips.appliedenergistics2.MatterBalls=Конденсировать в шар материи\n%s за предмет.
+gui.tooltips.appliedenergistics2.Singularity=Конденсировать в сингулярность\n%s за предмет.
 gui.tooltips.appliedenergistics2.Read=Только извлекать
 gui.tooltips.appliedenergistics2.Write=Только вставлять
 gui.tooltips.appliedenergistics2.ReadWrite=Двусторонний
@@ -308,7 +305,7 @@ gui.tooltips.appliedenergistics2.MoveWhenWorkIsDone=Перемещать к вы
 gui.tooltips.appliedenergistics2.MoveWhenFull=Перемещать к выходу, когда полон.
 gui.tooltips.appliedenergistics2.Disabled=Выкл.
 gui.tooltips.appliedenergistics2.Enable=Вкл.
-gui.tooltips.appliedenergistics2.Blocking=Не выталкивать изготавливающие предметы, если инвентарь содержит предметы.
+gui.tooltips.appliedenergistics2.Blocking=Не выталкивать изготавливаемые предметы, если инвентарь содержит предметы.
 gui.tooltips.appliedenergistics2.NonBlocking=Игнорировать содержимое целевого инвентаря.
 gui.tooltips.appliedenergistics2.Craft=Режим изготовления
 gui.tooltips.appliedenergistics2.CraftOnly=Не использовать имеющиеся в наличии предметы, только изготавливать предметы при экспорте.
@@ -327,7 +324,7 @@ gui.tooltips.appliedenergistics2.EmitterMode=Режим излучателя и�
 gui.tooltips.appliedenergistics2.CraftViaRedstone=Излучать сигнал редстоуна для изготовления предмета.
 gui.tooltips.appliedenergistics2.EmitWhenCrafting=Излучать сигнал редстоуна, когда предмет изготавливается.
 gui.tooltips.appliedenergistics2.ReportInaccessibleItems=Сообщать о недоступных предметах
-gui.tooltips.appliedenergistics2.ReportInaccessibleItemsYes=Да: Предметы, которые нельзя извлечь будут видимы.
+gui.tooltips.appliedenergistics2.ReportInaccessibleItemsYes=Да: Предметы, которые нельзя извлечь, будут видимы.
 gui.tooltips.appliedenergistics2.ReportInaccessibleItemsNo=Нет: Будут видимы только извлекаемые предметы.
 gui.tooltips.appliedenergistics2.BlockPlacement=Размещение блоков
 gui.tooltips.appliedenergistics2.BlockPlacementBlock=Блоки будут размещаться как блоки.
@@ -359,14 +356,11 @@ gui.tooltips.appliedenergistics2.InterfaceDifferentMachines=Рядом с раз
 
 gui.appliedenergistics2.ResourceAbsent=Ресурс отсутствует
 
-# Unit
+#Unit
 gui.appliedenergistics2.units.appliedenergstics=AE
 gui.appliedenergistics2.units.ic2=EU
-gui.appliedenergistics2.units.mekanism=Джоули
-gui.appliedenergistics2.units.rotarycraft=Ватты
-gui.appliedenergistics2.units.thermalexpansion=RF
 
-# Color
+#Color
 gui.appliedenergistics2.White=Белый
 gui.appliedenergistics2.Orange=Оранжевый
 gui.appliedenergistics2.Magenta=Пурпурный
@@ -385,7 +379,7 @@ gui.appliedenergistics2.Red=Красный
 gui.appliedenergistics2.Black=Чёрный
 gui.appliedenergistics2.Fluix=Флюисовый
 
-# Waila
+#Waila
 waila.appliedenergistics2.Crafting=Изготовляет
 waila.appliedenergistics2.DeviceOnline=Устройство в сети
 waila.appliedenergistics2.DeviceOffline=Устройство не в сети
@@ -396,7 +390,7 @@ waila.appliedenergistics2.Showing=Показывает
 waila.appliedenergistics2.Contains=Содержит
 waila.appliedenergistics2.Channels=Каналов: %1$d из %2$d
 
-# Item
+#Item
 item.appliedenergistics2.ItemBasicStorageCell.1k.name=1К МЭ предметная ячейка хранения
 item.appliedenergistics2.ItemBasicStorageCell.4k.name=4К МЭ предметная ячейка хранения
 item.appliedenergistics2.ItemBasicStorageCell.16k.name=16К МЭ предметная ячейка хранения
@@ -425,7 +419,7 @@ item.appliedenergistics2.ItemCreativeStorageCell.gas.name=§dТворческа�
 item.appliedenergistics2.ItemEncodedPattern.name=Шаблон изготовления
 item.appliedenergistics2.ItemFacade.name=Кабельный фасад
 
-item.appliedenergistics2.ItemCrystalSeed.Certus.name=Семя истинного кварца
+item.appliedenergistics2.ItemCrystalSeed.Certus.name=Семя чистого кварца
 item.appliedenergistics2.ItemCrystalSeed.Nether.name=Семя адского кварца
 item.appliedenergistics2.ItemCrystalSeed.Fluix.name=Семя флюиса
 item.appliedenergistics2.ItemMaterial.InvalidType.name=Этот предмет отключён.
@@ -436,7 +430,7 @@ item.appliedenergistics2.ItemMaterial.BlankPattern.name=Пустой шабло�
 item.appliedenergistics2.ItemMaterial.CalcProcessor.name=Вычислительный процессор
 item.appliedenergistics2.ItemMaterial.CardCapacity.name=Карта вместимости
 item.appliedenergistics2.ItemMaterial.CardFuzzy.name=Карта размытости
-item.appliedenergistics2.ItemMaterial.CardInverter.name=Карта-инвертер
+item.appliedenergistics2.ItemMaterial.CardInverter.name=Карта-инвертор
 item.appliedenergistics2.ItemMaterial.CardRedstone.name=Редстоуновая карта
 item.appliedenergistics2.ItemMaterial.CardSpeed.name=Карта ускорения
 item.appliedenergistics2.ItemMaterial.Cell1kPart.name=1К МЭ компонент хранения
@@ -461,9 +455,9 @@ item.appliedenergistics2.ItemMaterial.GasCell64kPart.name=64К МЭ химиче
 item.appliedenergistics2.ItemMaterial.GasCell256kPart.name=256К МЭ химический компонент хранения
 item.appliedenergistics2.ItemMaterial.GasCell1024kPart.name=1024К МЭ химический компонент хранения
 item.appliedenergistics2.ItemMaterial.GasCell4096kPart.name=4096К МЭ химический компонент хранения
-item.appliedenergistics2.ItemMaterial.CertusQuartzCrystal.name=Кристалл истинного кварца
-item.appliedenergistics2.ItemMaterial.CertusQuartzCrystalCharged.name=Заряженный кристалл истинного кварца
-item.appliedenergistics2.ItemMaterial.CertusQuartzDust.name=Пыль истинного кварца
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystal.name=Кристалл чистого кварца
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystalCharged.name=Заряженный кристалл чистого кварца
+item.appliedenergistics2.ItemMaterial.CertusQuartzDust.name=Пыль чистого кварца
 item.appliedenergistics2.ItemMaterial.EmptyStorageCell.name=МЭ корпус для предметной ячейки
 item.appliedenergistics2.ItemMaterial.EmptyFluidStorageCell.name=МЭ корпус для жидкостной ячейки
 item.appliedenergistics2.ItemMaterial.EmptyGasStorageCell.name=МЭ корпус для химической ячейки
@@ -480,7 +474,7 @@ item.appliedenergistics2.ItemMaterial.LogicProcessor.name=Логический �
 item.appliedenergistics2.ItemMaterial.LogicProcessorAsm.name=Незавершённый логический процессор
 item.appliedenergistics2.ItemMaterial.MatterBall.name=Шарик материи
 item.appliedenergistics2.ItemMaterial.NetherQuartzDust.name=Пыль адского кварца
-item.appliedenergistics2.ItemMaterial.PurifiedCertusQuartzCrystal.name=Чистый кристалл истинного кварца
+item.appliedenergistics2.ItemMaterial.PurifiedCertusQuartzCrystal.name=Чистый кристалл чистого кварца
 item.appliedenergistics2.ItemMaterial.PurifiedFluixCrystal.name=Чистый флюисовый кристалл
 item.appliedenergistics2.ItemMaterial.PurifiedNetherQuartzCrystal.name=Чистый кристалл адского кварца
 item.appliedenergistics2.ItemMaterial.Silicon.name=Кремний
@@ -507,7 +501,7 @@ item.appliedenergistics2.ItemPart.ImportBus.name=МЭ шина импорта
 item.appliedenergistics2.ItemPart.Interface.name=МЭ интерфейс
 item.appliedenergistics2.ItemPart.LevelEmitter.name=МЭ излучатель уровня
 item.appliedenergistics2.ItemPart.P2PTunnel.name=МЭ P2P тоннель
-item.appliedenergistics2.ItemPart.PatternTerminal.name==МЭ терминал для закодированных шаблонов
+item.appliedenergistics2.ItemPart.PatternTerminal.name=МЭ терминал для кодирования шаблонов
 item.appliedenergistics2.ItemPart.QuartzFiber.name=Кварцевое волокно
 item.appliedenergistics2.ItemPart.StorageBus.name=МЭ шина хранения
 item.appliedenergistics2.ItemPart.Terminal.name=МЭ терминал
@@ -517,15 +511,15 @@ item.appliedenergistics2.ItemPart.CraftingMonitor.name=МЭ монитор из�
 item.appliedenergistics2.ItemPart.InterfaceTerminal.name=МЭ терминал интерфейсов
 item.appliedenergistics2.ItemPart.InvalidType.name=Отключённый предмет
 
-item.appliedenergistics2.ToolCertusQuartzCuttingKnife.name=Режущий нож из истинного кварца
-item.appliedenergistics2.ToolCertusQuartzWrench.name=Гаечный ключ из истинного кварца
+item.appliedenergistics2.ToolCertusQuartzCuttingKnife.name=Режущий нож из чистого кварца
+item.appliedenergistics2.ToolCertusQuartzWrench.name=Гаечный ключ из чистого кварца
 
 item.appliedenergistics2.ToolPortableCell.name=Портативная ячейка
 item.appliedenergistics2.ToolNetworkTool.name=Сетевой инструмент
 item.appliedenergistics2.ToolMemoryCard.name=Карта памяти
 item.appliedenergistics2.ToolWirelessTerminal.name=Беспроводной терминал
 
-# Command
+#Command
 commands.ae2.usage=Команды предоставляемые Applied Energistics 2 — используйте /ae2 list для списка, а /ae2 help _____ для справки по командам.
 commands.ae2.permissions=У Вас нет надлежащих прав, чтобы запустить эту команду.
 commands.ae2.ChunkLogger=Переключает загрузку и выгрузку чанков в журнал сервера.
@@ -533,7 +527,7 @@ commands.ae2.ChunkLoggerOn=Запись чанков теперь включен
 commands.ae2.ChunkLoggerOff=Запись чанков теперь выключена
 commands.ae2.Supporters=Отображает список сторонников AE2.
 
-# Achievement
+#Achievement
 achievement.ae2.Presses=Неизвестная технология
 achievement.ae2.Presses.desc=Найдите все прессы.
 achievement.ae2.StorageCell=Лучше, чем сундуки
@@ -543,9 +537,9 @@ achievement.ae2.IOPort.desc=Изготовьте порт ввода/вывод�
 achievement.ae2.CraftingTerminal=(Очень) большой верстак
 achievement.ae2.CraftingTerminal.desc=Изготовьте терминал изготовления.
 achievement.ae2.PatternTerminal=Маэстро изготовления
-achievement.ae2.PatternTerminal.desc=Изготовьте терминал для закодированных шаблонов.
+achievement.ae2.PatternTerminal.desc=Изготовьте терминал для кодирования шаблонов.
 achievement.ae2.ChargedQuartz=Потрясающий
-achievement.ae2.ChargedQuartz.desc=Зарядите кристалл истинного кварца камерой зарядки кристаллов, или найдите его в мире.
+achievement.ae2.ChargedQuartz.desc=Зарядите кристалл чистого кварца камерой зарядки кристаллов, или найдите его в мире.
 achievement.ae2.Fluix=Неестественный
 achievement.ae2.Fluix.desc=Создайте флюисовые кристаллы.
 achievement.ae2.GlassCable=Флюисовое энергосоединение
@@ -557,7 +551,7 @@ achievement.ae2.Controller.desc=Изготовьте МЭ контроллер.
 achievement.ae2.P2P=Сеть P2P
 achievement.ae2.P2P.desc=Изготовьте тоннель P2P.
 achievement.ae2.Recursive=Рекурсивная сеть
-achievement.ae2.Recursive.desc=Расположите шину хранения в интерфейс.
+achievement.ae2.Recursive.desc=Расположите шину хранения на интерфейс.
 achievement.ae2.CraftingCPU=Изготовление следующего поколения
 achievement.ae2.CraftingCPU.desc=Изготовьте блок изготовления.
 achievement.ae2.Facade=Сетевая эстетика
@@ -569,11 +563,11 @@ achievement.ae2.PortableCell.desc=Изготовьте портативную я
 achievement.ae2.StorageBus=Безграничный потенциал
 achievement.ae2.StorageBus.desc=Изготовьте шину хранения.
 
-# Stats
+#Stats
 stat.ae2.ItemsInserted=Добавлено предметов в МЭ хранилище
 stat.ae2.ItemsExtracted=Извлечено предметов из МЭ хранилища
 
-# Thaumic Energistics
+#ThaumicEnergistics
 gui.tooltips.appliedenergistics2.ContentTypeAspect=Аспект
 gui.tooltips.appliedenergistics2.Save=Сохранить
 gui.tooltips.appliedenergistics2.Delete=Удалить
@@ -585,12 +579,12 @@ gui.tooltips.appliedenergistics2.KnowledgeInscriberInvalidRecipe=Неверны�
 gui.tooltips.appliedenergistics2.KnowledgeInscriberMissingCore=Необходим шаблон знаний
 gui.tooltips.appliedenergistics2.KnowledgeInscriberCoreFull=Шаблон знаний заполнен
 
-gui.appliedenergistics2.ArcaneAssemblerHasVis=Cодержит Вис
+gui.appliedenergistics2.ArcaneAssemblerHasVis=Содержит Вис
 
 gui.appliedenergistics2.KnowledgeInscriber=Высекатель знаний
 gui.appliedenergistics2.DistillationEncoder=Кодировщик шаблонов эссенции
 gui.appliedenergistics2.ArcaneAssembler=Магический сборщик
-gui.appliedenergistics2.ArcaneCraftingTerminal=Магический терминал изготовления
+gui.appliedenergistics2.ArcaneCraftingTerminal=МЭ магический терминал изготовления
 
 item.appliedenergistics2.ItemMaterial.AspectCell1kPart.name=1К МЭ компонент хранения эссенции
 item.appliedenergistics2.ItemMaterial.AspectCell4kPart.name=4К МЭ компонент хранения эссенции
@@ -610,64 +604,64 @@ item.appliedenergistics2.ItemCreativeStorageCell.aspect.name=§dТворческ
 item.appliedenergistics2.ItemKnowledgeCore.name=Шаблон знаний
 
 item.appliedenergistics2.ItemPart.VisInterface.name=Интерфейс Вис-реле
-item.appliedenergistics2.ItemPart.ArcaneCraftingTerminal.name=Магический терминал изготовления
+item.appliedenergistics2.ItemPart.ArcaneCraftingTerminal.name=МЭ магический терминал изготовления
 
 tile.appliedenergistics2.BlockInfusionProvider.name=МЭ поставщик наполнения
 tile.appliedenergistics2.BlockArcaneAssembler.name=Магический сборщик
 tile.appliedenergistics2.BlockDistillationEncoder.name=Кодировщик шаблонов эссенции
 tile.appliedenergistics2.BlockKnowledgeInscriber.name=Высекатель знаний
 
-# Research Tab
+#Research Tab
 tc.research_category.appliedenergistics2=Energistics
 
-# Research
+#Research
 tc.research_name.appliedenergistics2.TERESEARCH=Таумическая энергетика
 tc.research_text.appliedenergistics2.TERESEARCH=Для тауматургии наступает цифровая эпоха.
 appliedenergistics2.research_page.TERESEARCH.1=Как учёный и знаток магии, Вы предположили, что должно быть возможно объединить технологию и магию стабильным и продуктивным образом.<BR>Для достижения этой цели, Вам нужно будет подробно изучить принципы преобразования материальной энергии. Вполне вероятно, что некоторые аспекты тауматургии могут решить эту задачу, также как и технология, способная сделать то же самое.<BR>Потребуется глубоко изучить материальную энергию, но Вы уверены, что это будет выгодным вложением времени.
 
 tc.research_name.appliedenergistics2.TECORES=Цифросенция
 tc.research_text.appliedenergistics2.TECORES=Цифровая эссенция.
-appliedenergistics2.research_page.TECORES.1=Обнаружив как перегонять эссенцию, Вы решили, что возможно сможете хранить её в цифром виде.<BR>Изучив §lЯдро формирования§r и §lЯдро истребления§r, Вы понимаете, что после некоторых незначительных изменений они смогут служить в качестве средства для преобразования эссенции в цифровый формат и из него.<BR>Однако, из-за коррозионной природы некоторых типов эссенций вокруг схемы требуется слой ртути для предотвращения разрушения.
-appliedenergistics2.research_page.TECORES.2=§lЯдро диффузии§r<BR>Из-за относительно высокой летучести и огромной энергии в дистиллированной эссенции её сначала нужно рассеить, а потом перевести в цифровую форму. Скорее всего потребуется какая-нибудь буферная камера для хранения рассеянной эссенции.<LINE>§lЯдро слияния<BR>Сжимает и связывает повторно материализованную рассеянную эссенцию обратно в её необработанную форму. Вероятно, буферная камера также потребуется.
+appliedenergistics2.research_page.TECORES.1=Обнаружив, как перегонять эссенцию, Вы решили, что возможно сможете хранить её в цифровом виде.<BR>Изучив §lЯдро формирования§r и §lЯдро истребления§r, Вы понимаете, что после некоторых незначительных изменений они смогут служить в качестве средства для преобразования эссенции в цифровой формат и из него.<BR>Однако, из-за коррозионной природы некоторых типов эссенций вокруг схемы требуется слой ртути для предотвращения разрушения.
+appliedenergistics2.research_page.TECORES.2=§lЯдро диффузии§r<BR>Из-за относительно высокой летучести и огромной энергии в дистиллированной эссенции её сначала нужно рассеять, а потом перевести в цифровую форму. Скорее всего потребуется какая-нибудь буферная камера для хранения рассеянной эссенции.<LINE>§lЯдро слияния§r<BR>Сжимает и связывает повторно материализованную рассеянную эссенцию обратно в её необработанную форму. Вероятно, буферная камера также потребуется.
 
 tc.research_name.appliedenergistics2.TESTORAGE=Хранилище цифросенции
 tc.research_text.appliedenergistics2.TESTORAGE=Эта вещица и вправду может хранить эссенцию?
-appliedenergistics2.research_page.TESTORAGE.1=Во время осмотра существующих цифровых носителей информации Вы пришли к выводу, что Вы в самом деле сможете хранить цифровую эссенцию.<BR>Наполнение §lИстинного кварца§r концентрированной эссенцией, даст ему возможность хранить эссенцию в себе, которая остаётся на удивление активной, даже в цифровом виде.<BR>Вы заключили, что чем выше концентрация эссенции, тем больше эссенции кварц сможет её содержать, несмотря на это существуют природные пределы того сколько кварц может содержать в себе эссенции.
-appliedenergistics2.research_page.TESTORAGE.2=§lКомпоненты§r<BR>Хранят эссенцию в цифровом формате. Не функционируют, если только не вставить их в корпус.<BR>§lКорпус ячейки эссенции§r<BR>Предоставляет интерфейс и защищает компонент хранения.<BR>§lВерстак для ячеек<BR>Верстак для ячеек позволяет Вам разметить ячейку, указав какие типы эссенции можно хранить в ней.
+appliedenergistics2.research_page.TESTORAGE.1=Во время осмотра существующих цифровых носителей информации Вы пришли к выводу, что Вы в самом деле сможете хранить цифровую эссенцию.<BR>Наполнение §lЧистого кварца§r концентрированной эссенцией, даст ему возможность хранить эссенцию в себе, которая остаётся на удивление активной, даже в цифровом виде.<BR>Вы заключили, что чем выше концентрация эссенции, тем больше эссенции кварц сможет её содержать, несмотря на то, что существуют природные пределы, сколько кварц может содержать в себе эссенции.
+appliedenergistics2.research_page.TESTORAGE.2=§lКомпоненты§r<BR>Хранят эссенцию в цифровом формате. Не функционируют, если только не вставить их в корпус.<BR>§lКорпус ячейки эссенции§r<BR>Предоставляет интерфейс и защищает компонент хранения.<BR>§lВерстак для ячеек§r<BR>Верстак для ячеек позволяет Вам разметить ячейку, указав какие типы эссенции можно хранить в ней.
 
-tc.research_name.appliedenergistics2.TEARCANETERM=Магический терминал изготовления
+tc.research_name.appliedenergistics2.TEARCANETERM=МЭ магический терминал изготовления
 tc.research_text.appliedenergistics2.TEARCANETERM=Изготовление с помощью магии §oи технологии§r.
-appliedenergistics2.research_page.TEARCANETERM.1=Вы обнаружили, что использование первичных аспектов для соединения §lМЭ терминала§r с §lМагическим верстаком позволяет Вам наполнить терминал редкой способностью верстака, которая позволяет изготовлять магические предметы.<BR>Терминал сохраняет свою способность доступа к элементам МЭ сети, позволяя быстрее и обильнее изготовлять, а также хранить и заменять набор экипировки, когда это потребуется.
+appliedenergistics2.research_page.TEARCANETERM.1=Вы обнаружили, что использование первичных аспектов для соединения §lМЭ терминала§r с §lМагическим верстаком§r позволяет Вам наполнить терминал редкой способностью верстака, которая позволяет изготовлять магические предметы.<BR>Терминал сохраняет свою способность доступа к элементам МЭ-сети, позволяя быстрее и обильнее изготовлять, а также хранить и заменять набор экипировки, когда это потребуется.
 
 tc.research_name.appliedenergistics2.TEINFPROV=Поставщик наполнения
 tc.research_text.appliedenergistics2.TEINFPROV=Упрощение наполнения
-appliedenergistics2.research_page.TEINFPROV.1=Изучая процессы наполнения эссенцией, Вы обнаружили способ мгновенного преобразования между цифросенцией и эссенцией, который может использоваться во время наполнения.<BR>После размещения §lПоставщика эссенции§r вблизи таумического устройство, устройство сможет потреблять эссенцию напрямую из сети, как будто оно - банка.<BR>Это устройство может быть полезным для алтаря наполнения.
+appliedenergistics2.research_page.TEINFPROV.1=Изучая процессы наполнения эссенцией, Вы обнаружили способ мгновенного преобразования между цифросенцией и эссенцией, который может использоваться во время наполнения.<BR>После размещения §lПоставщика эссенции§r вблизи таумического устройства, устройство сможет потреблять эссенцию напрямую из сети, как будто оно - банка.<BR>Это устройство может быть полезным для алтаря наполнения.
 
 tc.research_name.appliedenergistics2.TEVISINT=Интерфейс Вис-реле
 tc.research_text.appliedenergistics2.TEVISINT=Цифровое использование Вис
-appliedenergistics2.research_page.TEVISINT.1=После обнаружения энергетической системы Вис, Вы начали искать способы соединения Вашей цифровой системы с системой Вис.<BR>После наблюдения затем как Вис течёт по сети §lВис-реле§r, Вы решили, что можно сделать цифровое устройство для обуздания Вис. Благодаря использованию возможностей технологии P2P, Вис может быть извлечён, туннелирован, и использован Вашими цифровыми устройствами.<BR>Извлечение Вис из сети или его накопление потребует больших исследований.
+appliedenergistics2.research_page.TEVISINT.1=После обнаружения энергетической системы Вис, Вы начали искать способы соединения Вашей цифровой системы с системой Вис.<BR>После наблюдения за тем, как Вис течёт по сети §lВис-реле§r, Вы решили, что можно сделать цифровое устройство для обуздания Вис. Благодаря использованию возможностей технологии P2P, Вис может быть извлечён, туннелирован и использован Вашими цифровыми устройствами.<BR>Извлечение Вис из сети или его накопление потребует больших исследований.
 appliedenergistics2.research_page.TEVISINT.2=Чтобы использовать §lИнтерфейс Вис-реле§r, присоедините его к цифровой сети и поставьте Вис-реле на него. Основа реле должна быть напротив интерфейса.<BR>Для того, чтобы устройство получало Вис, оно должно быть соединено с интерфейсом. Чтобы присоединить другие устройства к интерфейсу, Вам потребуется §lКарта памяти§r. Каждое устройство может быть соединено только с одним интерфейсом.<BR>Shift+ПКМ по интерфейсу картой памяти, затем ПКМ по устройству, чтобы создать соединение.<BR>Нажатие ПКМ по любому устройству пустой картой памяти удалит соединение.
 appliedenergistics2.research_page.TEVISINT.3=§lСоединения§r<LINE>§lИнтерфейс Вис-реле§r. Создает P2P Вис-туннель.<BR>§lМагический терминал изготовления§r. Заряжает жезлы и скипетры.<BR>§lМагический сборщик§r. Заполняет хранилище Вис, используется в изготовлении.
 
 tc.research_name.appliedenergistics2.TECERTUSDUPE=Удвоение кварца
 tc.research_text.appliedenergistics2.TECERTUSDUPE=Интактные примеси
-appliedenergistics2.research_page.TECERTUSDUPE.1=Вы теперь можете алхимически удваивать §lКристаллы истинного кварца§r и §lАдский кварц§r.
+appliedenergistics2.research_page.TECERTUSDUPE.1=Вы теперь можете алхимически удваивать §lКристаллы чистого кварца§r и §lАдский кварц§r.
 
 tc.research_name.appliedenergistics2.TEKNOWLEDGEINSCRIBER=Высечение знаний
 tc.research_text.appliedenergistics2.TEKNOWLEDGEINSCRIBER=Магические шаблоны
-appliedenergistics2.research_page.TEKNOWLEDGEINSCRIBER.1=После создания §lМагического сборщика§r, Вам нужно научить его тому, что он сможет собирать.<BR>Вы изобрели §lШаблон знаний§r, устройство, способное хранить магические рецепты. Шаблон работает как хранилище, показывая сборщику инструкции того как нужно собирать предметы.<BR>Чтобы закодировать рецепты в шаблон, Вам придётся применить §lВысекатель знаний§r.
-appliedenergistics2.research_page.TEKNOWLEDGEINSCRIBER.2=Применение §lВысекателя знаний§r<BR>Для начала положите §Шаблон знаний§r в верхний правый слот. Далее, используйте сетку создания для установки рецепта предмета. Если у Вас имеется требуемое знание (исследование) для рецепта, создаваемый предмет отобразится. Нажав кнопку сохранить, Вы высечете рецепт на шаблоне. Конечный продукт отобразиться в области хранилища шаблонов.<BR>Чтобы убрать высеченный рецепт с шаблона, сначала выберите шаблон из хранилища шаблонов. Рецепт выбранного шаблона отобразиться в сетке создания. В конце концов, нажмите кнопку удалить для удаления рецепта с шаблона.
+appliedenergistics2.research_page.TEKNOWLEDGEINSCRIBER.1=После создания §lМагического сборщика§r, Вам нужно научить его тому, что он сможет собирать.<BR>Вы изобрели §lШаблон знаний§r, устройство, способное хранить магические рецепты. Шаблон работает как хранилище, показывая сборщику инструкции того, как нужно собирать предметы.<BR>Чтобы закодировать рецепты в шаблон, Вам придётся применить §lВысекатель знаний§r.
+appliedenergistics2.research_page.TEKNOWLEDGEINSCRIBER.2=Применение §lВысекателя знаний§r<BR>Для начала положите §lШаблон знаний§r в верхний правый слот. Далее, используйте сетку создания для установки рецепта предмета. Если у Вас имеется требуемое знание (исследование) для рецепта, создаваемый предмет отобразится. Нажав кнопку сохранить, Вы высечете рецепт на шаблоне. Конечный продукт отобразится в области хранилища шаблонов.<BR>Чтобы убрать высеченный рецепт с шаблона, сначала выберите шаблон из хранилища шаблонов. Рецепт выбранного шаблона отобразится в сетке создания. В конце концов, нажмите кнопку удалить для удаления рецепта с шаблона.
 
 tc.research_name.appliedenergistics2.TEARCANEASSEMBLER=Магический сборщик
 tc.research_text.appliedenergistics2.TEARCANEASSEMBLER=Магическая сборка молекул
-appliedenergistics2.research_page.TEARCANEASSEMBLER.1=Изучая §lМолекулярный сборщик§r, Вам пришла в голову идея, что возможно можно модифицировать сборщик для производства магических предметов. Вы подтвердили это, наполнив сборщик соответствующими осколками, теперь он сможет направлять поток Вис в предметы. Ему также потребуются небольшое хранилище Вис и §lСкипетр из серебрянного дерева§r.<BR>Примечание: Скипетр должен быть полностью заряжен.
+appliedenergistics2.research_page.TEARCANEASSEMBLER.1=Изучая §lМолекулярный сборщик§r, Вам пришла в голову идея, что возможно можно модифицировать сборщик для производства магических предметов. Вы подтвердили это, наполнив сборщик соответствующими осколками, теперь он сможет направлять поток Вис в предметы. Ему также потребуются небольшое хранилище Вис и §lСкипетр из серебряного дерева§r.<BR>Примечание: Скипетр должен быть полностью заряжен.
 appliedenergistics2.research_page.TEARCANEASSEMBLER.2=§lХранилище шаблонов§r<BR>Сам по себе сборщик не хранит рецепты. Может потребоваться дополнительное исследование, чтобы изобрести хранилище для шаблонов.<BR>§lПополнение Вис§r<BR>Для пополнения внутреннего хранилища сборщика потребуется §lИнтерфейс Вис-реле§r.<BR>§lУскорение картами§r<BR>Каждая карта уменьшает время создания на 20% и увеличивает потребляемую энергию на 50%.
-appliedenergistics2.research_page.TEARCANEASSEMBLER.3=§lУменьшение затрат Вис§r<BR>Из-за объединения со скипетром, у сборщика теперь есть основное уменьшение затрат Вис равное уменьшению скипетра. Уменьшение можно увеличить, добавив в сборщик броню с уменьшением затрат Вис. Уменьшение для каждого аспекта можно увидеть наведясь на этот аспект в интерфейсе.<BR>У сборщика нет иммунитета к эффектам искажения, которые могут быть на снаряжении. За каждое очко искажения сборщик будет потреблять дополнительные 15% энергии для того чтобы оставаться стабильным во время изготовления.
+appliedenergistics2.research_page.TEARCANEASSEMBLER.3=§lУменьшение затрат Вис§r<BR>Из-за объединения со скипетром, у сборщика теперь есть основное уменьшение затрат Вис равное уменьшению скипетра. Уменьшение можно увеличить, добавив в сборщик броню с уменьшением затрат Вис. Уменьшение для каждого аспекта можно увидеть, наведя курсор на этот аспект в интерфейсе.<BR>У сборщика нет иммунитета к эффектам искажения, которые могут быть на снаряжении. За каждое очко искажения сборщик будет потреблять дополнительные 15% энергии для того, чтобы оставаться стабильным во время изготовления.
 
 tc.research_name.appliedenergistics2.TEFOCUSWRENCH=Набалдашник: AE-ключ
 tc.research_text.appliedenergistics2.TEFOCUSWRENCH=Требуется немного сборки
-appliedenergistics2.research_page.TEFOCUSWRENCH.1=Этот набалдашник взаимодействует с блоками и механизмами, как если бы это был ключ из истинного кварца.<BR>SHIFT+ЛКМ: Повернуть.<BR>SHIFT+ПКМ: Демонтировать.
+appliedenergistics2.research_page.TEFOCUSWRENCH.1=Этот набалдашник взаимодействует с блоками и механизмами, как если бы это был ключ из чистого кварца.<BR>SHIFT+ЛКМ: Повернуть.<BR>SHIFT+ПКМ: Демонтировать.
 
 tc.research_name.appliedenergistics2.TEDISTILLATIONPATTERNENCODER=Кодировщик шаблонов эссенции
 tc.research_text.appliedenergistics2.TEDISTILLATIONPATTERNENCODER=Больше заказов
-appliedenergistics2.research_page.TEDISTILLATIONPATTERNENCODER.1=Развивая принципы системы автоматического изготовления, Вы создали способ закодировать процесс дистилляции эссенции на §lШаблоне изготовления.<BR>Помещение предмета в слот Таумометра покажет, что Вам известно о составе предмета. После выбора предпочтительного аспекта его можно закодировать на шаблон изготовления или доступный пустой шаблон.
+appliedenergistics2.research_page.TEDISTILLATIONPATTERNENCODER.1=Развивая принципы системы автоматического изготовления, Вы создали способ закодировать процесс дистилляции эссенции на §lШаблоне изготовления§r.<BR>Помещение предмета в слот Таумометра покажет, что Вам известно о составе предмета. После выбора предпочтительного аспекта его можно закодировать на шаблон изготовления или доступный пустой шаблон.
