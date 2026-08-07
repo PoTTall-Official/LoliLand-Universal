@@ -1,5 +1,89 @@
-# Mekanism
-hielements:item.teleportation_core.name=§bЯдро телепортации
+#CreativeTab
+itemGroup.tabHiTechMod=HiTech: Elements
+
+#QuantumTool
+item.ItemQuantumSword=Квантовый меч
+item.ItemQuantumPickaxe=Квантовая кирка
+item.ItemQuantumAxe=Квантовый топор
+item.ItemQuantumShovel=Квантовая лопата
+
+#GravitationChestplate
+item.ItemGraviChest1LVL.name=Аметриновый гравитационный жилет
+item.ItemGraviChest2LVL.name=Флюоритовый гравитационный жилет
+item.ItemGraviChest3LVL.name=Хризолитовый гравитационный жилет
+
+#Drill
+item.ItemDrill1LVL=Аметриновый бур
+item.ItemDrill2LVL=Флюоритовый бур
+item.ItemDrill3LVL=Хризолитовый бур
+
+#Windmill
+tile.hielements:windmill.name.ELV.name=Ветрогенератор сверхнизкого напряжения
+tile.hielements:windmill.name.LV.name=Ветрогенератор низкого напряжения
+tile.hielements:windmill.name.MV.name=Ветрогенератор среднего напряжения
+tile.hielements:windmill.name.HV.name=Ветрогенератор высокого напряжения
+tile.hielements:windmill.name.EV.name=Ветрогенератор экстремального напряжения
+
+#Rotor
+item.hielements:rotor.WOOD.name=Деревянный ротор
+item.hielements:rotor.WOOL.name=Шерстяной ротор
+item.hielements:rotor.CARBON.name=Углепластиковый ротор
+item.hielements:rotor.ALLOY.name=Сверхпрочный ротор
+item.hielements:rotor.IRIDIUM.name=Иридиевый ротор
+
+#MachineTooltip
+info.hielements:tooltip.ticksleft=%s тактов осталось этому ротору.
+info.hielements:tooltip.timeleft=%s часов, %s минут и %s секунд
+info.hielements:tooltip.infinite=Бесконечно
+info.hielements:tooltip.efficiency=Эффективность: %s
+
+info.hielements:gui.rotor=Ротор:
+info.hielements:gui.output=Текущий выход: %s EU/т
+
+hielements:item.cluster_ice.name=Ледяной кластер
+hielements:item.cluster_jungle.name=Джунглевый кластер
+hielements:item.cluster_fire.name=Расплавленный кластер
+hielements:item.cluster_divine.name=Божественный кластер
+hielements:item.cluster_shadow.name=Теневой кластер
+hielements:item.piece.name=Древний компонент изготовления
+hielements:item.reinforced_superalloy.name=Укреплённый сверхсплав
+
+hielements:tile.alloy_furnace.name=Сплавная печь
+hielements:tile.assembly_complex.name=Сборочный цех
+hielements:tile.fisher.name=Рыболов
+hielements:gui.fisher.catch=Улов
+hielements:tile.extruder.name=Вулканический пресс
+hielements:tile.legendary_assembly_complex_nei.name=Легендарный сборочный комплекс
+hielements:tile.legendary_assembly_complex.name=Ядро легендарного сборочного комплекса
+hielements:tile.extraterrestrial_coverage.name=Покрытие сборочного комплекса
+hielements:tile.extraterrestrial_glass.name=Стекло сборочного комплекса
+hielements:tile.extraterrestrial_basis.name=Основа сборочного комплекса
+
+hielements:item.lead_ingot_alloyed_gold.name=Свинцовый слиток легированный золотом
+hielements:item.lead_ingot_alloyed_copper.name=Свинцовый слиток легированный медью
+hielements:item.lead_ingot_alloyed_aluminum.name=Свинцовый слиток легированный алюминием
+
+hielements:item.steel_ingot_alloyed_gold.name=Стальной слиток легированный золотом
+hielements:item.steel_ingot_alloyed_copper.name=Стальной слиток легированный медью
+hielements:item.steel_ingot_alloyed_aluminum.name=Стальной слиток легированный алюминием
+
+hielements:item.uranium_ingot_alloyed_bronze.name=Урановый слиток легированный бронзой
+hielements:item.uranium_ingot_alloyed_copper.name=Урановый слиток легированный медью
+
+hielements:item.iron_ingot_alloyed_tin.name=Железный слиток легированный оловом
+hielements:item.iron_ingot_alloyed_bronze.name=Железный слиток легированный бронзой
+
+hielements:item.solar_core1.name=Ядро солнечной панели 1-го уровня
+hielements:item.solar_core2.name=Ядро солнечной панели 2-го уровня
+hielements:item.solar_core3.name=Ядро солнечной панели 3-го уровня
+hielements:item.solar_core4.name=Ядро солнечной панели 4-го уровня
+hielements:item.solar_core5.name=Ядро солнечной панели 5-го уровня
+hielements:item.solar_core6.name=Ядро солнечной панели 6-го уровня
+hielements:item.solar_core7.name=Ядро солнечной панели 7-го уровня
+hielements:item.solar_core8.name=Ядро солнечной панели 8-го уровня
+
+#Consumable
+hielements:item.teleportation_core.name=Ядро телепортации
 hielements:item.iron_crystal.name=Железный кристалл
 hielements:item.gold_crystal.name=Золотой кристалл
 hielements:item.osmium_crystal.name=Осмиевый кристалл
@@ -7,12 +91,156 @@ hielements:item.copper_crystal.name=Медный кристалл
 hielements:item.tin_crystal.name=Оловянный кристалл
 hielements:item.silver_crystal.name=Серебряный кристалл
 hielements:item.lead_crystal.name=Свинцовый кристалл
-hielements:item.enriched_alloy.name=§eНаполненный сплав
-hielements:item.reinforced_alloy.name=§bУкреплённый сплав
-hielements:item.atomic_alloy.name=§dАтомный сплав
-hielements:item.basic_control_circuit.name=§aБазовая схема управления
-hielements:item.advanced_control_circuit.name=§cПродвинутая схема управления
-hielements:item.elite_control_circuit.name=§bЭлитная схема управления
-hielements:item.perfect_control_circuit.name=§dСовершенная схема управления
-hielements:item.compressed_redstone.name=Обогащённый редстоун
-hielements:item.compressed_coal.name=Обогащённый углерод
+hielements:item.enriched_alloy.name=Наполненный сплав
+hielements:item.reinforced_alloy.name=Укреплённый сплав
+hielements:item.atomic_alloy.name=Атомный сплав
+hielements:item.basic_control_circuit.name=Базовая схема управления
+hielements:item.advanced_control_circuit.name=Продвинутая схема управления
+hielements:item.elite_control_circuit.name=Элитная схема управления
+hielements:item.perfect_control_circuit.name=Совершенная схема управления
+hielements:item.compressed_redstone.name=Обогащённый краснокамень
+hielements:item.compressed_coal.name=Обогащённый уголь
+
+hielements:item.battery.name=Аккумулятор
+hielements:item.advanced_battery.name=Продвинутый аккумулятор
+hielements:item.gas_electric_engine.name=Газовый электродвигатель
+hielements:item.singularity_gas_electric_engine.name=Сингулярный газовый электродвигатель
+hielements:item.advanced_gas_electric_engine.name=Улучшенный газовый электродвигатель
+hielements:item.gas_engine_capsule.name=Капсула газового двигателя
+
+hielements:item.quantum_sediment.name=Квантовый осадок
+
+hielements:item.raw_matter_clump.name=Сгусток материи
+hielements:item.violet_matter_clump.name=Сгусток фиолетовой материи
+hielements:item.glowing_pink_matter_clump.name=Сгусток светящейся розовой материи
+hielements:item.glowing_red_matter_clump.name=Сгусток светящейся красной материи
+hielements:item.glowing_turquoise_matter_clump.name=Сгусток светящейся бирюзовой материи
+hielements:item.mutated_violet_turquoise_matter_clump.name=Сгусток мутировавшей фиолетово-бирюзовой материи
+hielements:item.powdery_light_blue_matter_clump.name=Сгусток сыпучей светло-голубой материи
+hielements:item.powdery_light_pink_matter_clump.name=Сгусток сыпучей светло-розовой материи
+hielements:item.radioactive_matter_clump.name=Сгусток радиоактивной материи
+hielements:item.sparkling_matter_clump.name=Сгусток искрящейся материи
+hielements:item.sparkling_nugget.name=Искрящийся кусочек
+hielements:item.sparkling_ingot.name=Искрящийся слиток
+hielements:item.sparkling_plate.name=Искрящаяся пластина
+hielements:item.sparkling_singularity.name=Искрящаяся сингулярность
+hielements:item.quantum_star.name=Квантовая звезда
+hielements:item.turquoise_matter_clump.name=Сгусток бирюзовой материи
+
+hielements:item.jungleStone.name=Джунглевый камень
+hielements:item.divineStone.name=Божественный камень
+hielements:item.corruptedStone.name=Повреждённый камень
+hielements:item.moltenStone.name=Расплавленный камень
+hielements:item.enderStone.name=Камень Края
+hielements:item.iceStone.name=Ледяной камень
+hielements:item.healingStone.name=Камень здоровья
+hielements:item.terranStone.name=Земляной камень
+hielements:item.shadowStone.name=Теневой камень
+
+hielements:item.jungleShards.name=Джунглевые осколки
+hielements:item.divineShards.name=Божественные осколки
+hielements:item.corruptedShards.name=Повреждённые осколки
+hielements:item.moltenShards.name=Расплавленные осколки
+hielements:item.enderShards.name=Осколки Края
+hielements:item.iceShards.name=Ледяные осколки
+hielements:item.terranShards.name=Земляные осколки
+hielements:item.healingShards.name=Осколки здоровья
+hielements:item.health_shard.name=Осколок здоровья
+hielements:item.blue_fire_shard.name=Осколок синего огня
+
+hielements:item.divineFragment.name=Божественный фрагмент
+hielements:item.earthFragment.name=Земляной фрагмент
+hielements:item.iceFragment.name=Ледяной фрагмент
+hielements:item.damagedFragment.name=Повреждённый фрагмент
+hielements:item.rainbowFragment.name=Радужный фрагмент
+hielements:item.moltenFragment.name=Расплавленный фрагмент
+hielements:item.healthFragment.name=Фрагмент здоровья
+hielements:item.edgeFragment.name=Фрагмент Края
+hielements:item.blueFireFragment.name=Фрагмент синего огня
+hielements:item.jungleFragment.name=Джунглевый фрагмент
+
+hielements:item.petrotheum_bucket.name=Ведро петротеума
+tile.hielements:fluid_petrotheum.name=Тектонический петротеум
+fluid.petrotheum=Тектонический петротеум
+
+#GraviSuite
+message.text.noenergy=Недостаточно энергии для операции!
+message.text.energyLevel=Заряд
+message.text.activated=§a- Активировано
+message.text.enabled=§a- Включено
+message.text.on=§a- Включено
+message.text.off=§c- Выключено
+message.text.disabled=§c- Выключено
+message.advElJetpack.hoverMode=Режим планирования
+message.advElJetpack.jetpackEngine=Двигатель джетпака
+message.text.powerSupply=Внешнее питание
+message.text.mode=§6Режим
+message.graviChestPlate.gravitationEngine=Гравитационные двигатели
+message.graviChestPlate.levitationMode=Режим левитации
+message.graviChestPlate.levitationMode.short=Левитация
+message.graviChestPlate.lowEnergy=Недостаточно энергии для запуска двигателей!
+message.graviChestPlate.shutdown=Внимание! Энергия закончилась, и гравитационные двигатели отключились.
+message.graviChestPlate.noEnergyToBoost=Недостаточно энергии для ускорения!
+message.hud.displayHud=Отображение HUD
+message.hud.location=Расположение HUD
+message.hud.location.topLeft=Сверху слева
+message.hud.location.topRight=Сверху справа
+message.hud.location.bottomLeft=Снизу слева
+message.hud.location.bottomRight=Снизу справа
+
+hielements:item.plastic_sheet.name=Листы пластика
+hielements:item.raw_plastic.name=Сырой пластик
+hielements:item.pink_slime_crystal.name=Кристалл розовой слизи
+hielements:item.pink_slime_ball.name=Розовая слизь
+hielements:item.portaspawner.name=Портативный рассадник монстров
+hielements:tile.factory_machine_block.name=Фабричный блок механизма
+hielements:item.chocolate_milk_bucket.name=Ведро молочного шоколада
+hielements:item.mushroom_soup_bucket.name=Ведро грибного супа
+tile.hielements:fluid_chocolate_milk.name=Молочный шоколад
+tile.hielements:fluid_mushroom_soup.name=Грибной суп
+fluid.chocolate_milk=Молочный шоколад
+fluid.mushroom_soup=Грибной суп
+hielements:item.petrotheum_dust.name=Пыль петротеума
+hielements:item.basalz_rod.name=Осколок базальца
+hielements:item.blitz_rod.name=Пылинка блитца
+hielements:item.blizz_rod.name=Куб близза
+hielements:item.basalz_powder.name=Порошок базальца
+hielements:item.blitz_powder.name=Порошок блитца
+hielements:item.blizz_powder.name=Порошок близза
+hielements:item.cinnabar.name=Киноварь
+hielements:item.pneumatic_servo.name=Краснокаменный сервомотор
+hielements:item.voidite_gear.name=Войдитовая шестерня
+hielements:tile.hardened_lumium_glass.name=Закалённое люмиевое стекло
+hielements:item.green_diamond_chunk.name=Зелёный алмазный кусок
+hielements:item.yellow_diamond_chunk.name=Жёлтый алмазный кусок
+hielements:item.red_diamond_chunk.name=Красный алмазный кусок
+hielements:item.blue_diamond_chunk.name=Синий алмазный кусок
+hielements:item.gray_diamond_chunk.name=Серый алмазный кусок
+hielements:item.snowflake.name=Снежинка
+hielements:item.legendary_ender_eye.name=Легендарное око Края
+hielements:item.watching_eye.name=Смотрящее око Края
+hielements:item.blue_fire_stone.name=Камень синего огня
+hielements:item.aquatic_pellets.name=Водяные гранулы
+hielements:item.pure_aquatic_pellets.name=Очищенные водяные гранулы
+hielements:item.arlemite_ingot.name=Арлемитовый слиток
+hielements:item.realmite_ingot.name=Реалмитовый слиток
+hielements:item.rupee_ingot.name=Рупиевый слиток
+hielements:item.netherite_ingot.name=Незеритовый слиток
+hielements:item.hellstone_ingot.name=Адский слиток
+hielements:item.shadow_ingot.name=Теневой слиток
+hielements:item.aquatic_ingot.name=Водяной слиток
+hielements:item.magic_meat.name=Магическое мясо
+hielements:item.enriched_magic_meat.name=Обогащённое магическое мясо
+hielements:tile.rupee_block.name=Рупиевый блок
+hielements:tile.realmite_block.name=Реалмитовый блок
+hielements:tile.arlemite_block.name=Арлемитовый блок
+hielements:tile.aquatonic_bricks.name=Водяные кирпичи
+hielements:tile.ice_lamp.name=Ледяная лампа
+hielements:tile.molten_lamp.name=Расплавленная лампа
+hielements:tile.ender_lamp.name=Лампа из камня Края
+hielements:tile.rupee_lamp.name=Рупиевая лампа
+hielements:tile.bluefire_lamp.name=Лампа синего огня
+hielements:tile.redstone_lamp.name=Краснокаменная лампа
+hielements:tile.jungle_lamp.name=Джунглевая лампа
+hielements:tile.terran_lamp.name=Земляная лампа
+hielements:tile.divine_lamp.name=Божественная лампа
