@@ -18,7 +18,7 @@ ic2.itemPurifiedCrushedLeadOre=Очищенная измельчённая св�
 
 #Plate
 ic2.itemPlateBronze=Бронзовая пластина
-ic2.itemPlateAdvIron=Пластина из закалённого железа
+ic2.itemPlateAdvIron=Стальная пластина
 ic2.itemPlateCopper=Медная пластина
 ic2.itemPlateGold=Золотая пластина
 ic2.itemPlateIron=Железная пластина
@@ -29,7 +29,7 @@ ic2.itemPlateLapi=Лазуритовая пластина
 
 #DensePlate
 ic2.itemDensePlateBronze=Плотная бронзовая пластина
-ic2.itemDensePlateAdvIron=Плотная пластина из закалённого железа
+ic2.itemDensePlateAdvIron=Плотная стальная пластина
 ic2.itemDensePlateCopper=Плотная медная пластина
 ic2.itemDensePlateGold=Плотная золотая пластина
 ic2.itemDensePlateIron=Плотная железная пластина
@@ -44,11 +44,11 @@ ic2.itemCasingTin=Оловянная оболочка
 ic2.itemCasingBronze=Бронзовая оболочка
 ic2.itemCasingGold=Золотая оболочка
 ic2.itemCasingIron=Железная оболочка
-ic2.itemCasingAdvIron=Оболочка из закалённого железа
+ic2.itemCasingAdvIron=Стальная оболочка
 ic2.itemCasingLead=Свинцовая оболочка
 
 #Ingot
-ic2.itemIngotAdvIron=Слиток закалённого железа
+ic2.itemIngotAdvIron=Стальной слиток
 ic2.itemIngotCopper=Медный слиток
 ic2.itemIngotTin=Оловянный слиток
 ic2.itemIngotBronze=Бронзовый слиток
@@ -372,12 +372,12 @@ ic2.BlockCutter.gui.bladeslot=Вставьте сюда режущий диск.
 ic2.BlockCutter.gui.bladetoweak=Режущий диск слишком мягкий или отсутствует.
 
 ic2.itemIronBlockCuttingBlade=Железный режущий диск
-ic2.itemAdvIronBlockCuttingBlade=Режущий диск из закалённого железа
+ic2.itemAdvIronBlockCuttingBlade=Стальной режущий диск
 ic2.itemDiamondBlockCuttingBlade=Алмазный режущий диск
 ic2.CuttingBlade.hardness=Твёрдость: %s
 
 ic2.IronBlockCuttingBlade.info=Режет материалы, которые мягче железа.
-ic2.AdvIronBlockCuttingBlade.info=Режет материалы, которые мягче закалённого железа.
+ic2.AdvIronBlockCuttingBlade.info=Режет материалы, которые мягче стали.
 ic2.DiamondBlockCuttingBlade.info=Режет материалы, которые мягче алмаза.
 
 ic2.blockSolarDestiller=Солнечный опреснитель
@@ -445,7 +445,7 @@ ic2.blockMetalTin=Оловянный блок
 ic2.blockMetalBronze=Бронзовый блок
 ic2.blockMetalUranium=Урановый блок
 ic2.blockMetalLead=Свинцовый блок
-ic2.blockMetalAdvIron=Блок закалённого железа
+ic2.blockMetalAdvIron=Стальной блок
 
 ic2.blockTeleporter=Телепортер
 ic2.blockTesla=Катушка Теслы
